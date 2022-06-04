@@ -1,10 +1,10 @@
 # CTF starter Hidiot
 
-CTF 에 참여할 때 자주 사용하는 내용을 정리
+CTF 에 참여할 때 자주 사용하는 내용 정리
 
 # CTF
 ### 1) 소개
-CTF는 간단히 말해서 **해킹 대회**
+**CTF(Capture the Flag)** 는 간단히 말해서 **해킹 대회**
 
 wargame - 자신의 페이스로 진행할 수 있는 환경
 
@@ -12,9 +12,9 @@ wargame - 자신의 페이스로 진행할 수 있는 환경
 [드림핵](https://dreamhack.io/)
 
 ### 3) 대회
-매주 금~일 사이에 대회가 개최되고 [CTF time](https://ctftime.org/)에서 확인할 수 있습니다.
+매주 대회가 개최되며 일정은 [CTF TIME](https://ctftime.org/)에서 확인할 수 있습니다.
 
-너무 어려운 대회에 참여하면, 성취감을 얻기 힘들기 때문에 레이팅보고 참가합니다.
+대회 난이도가 높으면 성취감을 얻기 힘들기 때문에 낮은 레이팅 부터 시작합니다.
 
 ![cover](./images/ctftime.png)
 
@@ -35,27 +35,24 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [ctf-d](http://ctf-d.com/)
 
 ### 6) 지난 대회
-대부분의 대회 종료 후 서버를 닫고, 문제를 공개하지 않습니다.
-
-일부 대회의 경우 문제와 함께 답을 공개합니다.
+대부분의 대회 종료 후 서버를 닫고, 문제를 공개하지 않습니다. 일부 대회의 경우 문제와 함께 답을 공개합니다.
 
 - [squareCTF](https://squarectf.com/)   
     square는 미국의 모바일 결제 기업입니다. 매년 CTF 대회를 개최하고, docker로 문제를 제공합니다. 정답도 포함되어 있습니다.
 
 # TIPS
-사실 이것 때문에 만듬
-
 # 1. crypto
-### 1) [암호 알고리즘 판별](https://www.dcode.fr/cipher-identifier)
+### 1) [암호 알고리즘 판별](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/cipher-identifier.md)
+[판별 사이트](https://www.dcode.fr/cipher-identifier)   
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
-[설명](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/cipher-identifier.md)
 
-### 2) [비즈네르 암호(vigenere cypher)](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
-1. 문자열, 2. key를 기반으로 암복호화하는 알고리즘 입니다.
+### 2) [비즈네르 암호(vigenere cypher)](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
+문자열과 key를 기반으로 암복호화하는 알고리즘 입니다.
+[디코딩 사이트](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
 
-[설명](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
-
-### 3) [키보드 레이아웃](https://awsm-tools.com/text/keyboard-layout)
+### 3) [키보드 레이아웃]
+키보드 배열 다르게 해서 암호 문제로 제출됩니다.
+[디코딩 사이트](https://awsm-tools.com/text/keyboard-layout)
 
 
 # 3. web
@@ -68,7 +65,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 [SquareCTF 2020 - Deep Web Blog](https://velog.io/@skyepodium/SquareCTF-Writeup)
 
 # 5. stegnography
-### 1) foremost
+### 1) [foremost](http://foremost.sourceforge.net/)
 포렌식용 툴인데, 파일 카빙용으로 사용 가능합니다. 개인적으로 제일 좋아합니다.
 
 윈도우에서는 [WSL(Windows Subsystem for Linux)](https://docs.microsoft.com/ko-kr/windows/wsl/install) 에 설치합니다.
@@ -102,6 +99,6 @@ ifconfig | grep inet
 ### 2) https 서버
 만약 사이트가 https 프로토콜을 사용하고, 로컬의 서버가 http이면 전송이 불가능합니다.(https -> http 요청 불가)
 
-따라서, https 서버가 필요하면 postbin을 사용할 수 있습니다.
+따라서, https 서버가 필요하면 postbin을 사용할 수 있습니다. 사용법 간단합니다.
 
-[post bin](https://www.toptal.com/developers/postbin/)
+[post bin 사이트](https://www.toptal.com/developers/postbin/)
