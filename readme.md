@@ -62,8 +62,8 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - 2진법, 8진법 - 아스키
 - 진법 충첩
 
-[[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)     
-[[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
+- [[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)     
+- [[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
 
 ### 5) 키보드 레이아웃
 키보드 배열 다르게 해서 암호 문제로 제출됩니다.    
@@ -92,16 +92,16 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 윈도우에서는 [WSL(Windows Subsystem for Linux)](https://docs.microsoft.com/ko-kr/windows/wsl/install) 에 설치합니다.
 
-[[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
+- [[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
 
 ### 2) [binwalk](https://github.com/ReFirmLabs/binwalk)
 이미지에 숨겨진 파일을 추출합니다.   
-[[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
+- [[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
 
 ### 3) [zsteg](https://github.com/zed-0xff/zsteg)
 이미지에 숨겨진 문자열을 찾아냅니다.
 
-[[BCACTF 3.0] My New Friend](https://skyepodium.tistory.com/entry/BCACTF-30-My-New-Friend)
+- [[BCACTF 3.0] My New Friend](https://skyepodium.tistory.com/entry/BCACTF-30-My-New-Friend)
 
 ### 4) stegsolve
 색, 명암을 변경하여 숨겨진 문자열을 찾습니다.
@@ -118,7 +118,7 @@ https://futureboy.us/stegano/decinput.html
 robots.txt는 웹 크롤러가 해당 경로에 접근하지 말라는 의미로 domain/robots.txt에 지정합니다.
 
 robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이 아니더라도 여러 CTF 대회에서 먼저 확인하는 부분중 하나 입니다.
-[[ctflearn] Where Can My Robot Go?](https://skyepodium.tistory.com/entry/ctflearn-Where-Can-My-Robot-Go?category=1029036)
+- [[ctflearn] Where Can My Robot Go?](https://skyepodium.tistory.com/entry/ctflearn-Where-Can-My-Robot-Go?category=1029036)
 
 # 7. 기타
 ### 1) 맥 아이피 확인
