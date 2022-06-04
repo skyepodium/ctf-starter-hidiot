@@ -97,12 +97,16 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 [Forbidden Paths](https://skyepodium.tistory.com/entry/pico-CTF-Forbidden-Paths)
 
-### 5) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
+### 5) 웹쉘
+네트워크로 받은 파라미터를 통해 시스템 콜을 사용하는 취약점입니다.
+- [UMassCTF 2021 - Hermit - Part 1](https://velog.io/@skyepodium/UMassCTF-2021-writeup)
+
+### 6) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
 난독화 된것을 원래대로는 못돌리고, 예쁘게 포맷팅해서 분석해야합니다.
 
 [[pico CTF] Client-side-again](https://skyepodium.tistory.com/entry/pico-CTF-Client-side-again)
 
-### 6) 크롬 브라우저 **Search in all files**
+### 7) 크롬 브라우저 **Search in all files**
 웹앱의 모든 리소스에서 문자열을 검색할 때 유용합니다.
 - [[pico CTF] Search source](https://skyepodium.tistory.com/entry/pico-CTF-Search-source)
 
