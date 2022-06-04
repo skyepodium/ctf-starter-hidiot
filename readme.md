@@ -6,7 +6,7 @@
 wargame - 자신의 페이스로 진행할 수 있는 환경
 
 ### 2) 학습 사이트
-[드림핵](https://dreamhack.io/)
+[드림핵](https://dreamhack.io/) - 정말 좋아요
 
 ### 3) wargame
 좋은 워게임 사이트
@@ -106,12 +106,13 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 5) exiftool
 파일속에 숨겨진 정보를 찾습니다.
 - [[ctflearn] WOW…. So Meta](https://skyepodium.tistory.com/entry/ctflearn-WOW%E2%80%A6-So-Meta?category=1029036)
+- [[ctflearn] Snowboard](https://skyepodium.tistory.com/entry/ctflearn-Snowboard)
 
-### 6) 스테그하이드 온라인
-명암, 색상을 변조합니다.
+### 6) 스테가노그라피 온라인
+숨겨진 문자열을 찾습니다.
 https://stylesuxx.github.io/steganography/
 
-### 7) 숨겨진 문자열 찾기  
+### 7) 스테그하이드 🔥
 https://futureboy.us/stegano/decinput.html
 
 ### 8) strings
