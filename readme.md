@@ -50,11 +50,11 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 [cyber chef 사이트](https://gchq.github.io/CyberChef/)
 
 ### 2) [암호 알고리즘 판별](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/cipher-identifier.md)
-[판별 사이트](https://www.dcode.fr/cipher-identifier)   
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
+[판별 사이트](https://www.dcode.fr/cipher-identifier)   
 
 ### 3) [비즈네르 암호(vigenere cypher)](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
-문자열과 key를 기반으로 암복호화하는 알고리즘 입니다.
+문자열과 key를 기반으로 암복호화하는 알고리즘 입니다.     
 [디코딩 사이트](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
 
 ### 4) 진법과 아스키
@@ -62,25 +62,29 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - 2진법, 8진법 - 아스키
 - 진법 충첩
 
-[[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)
+[[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)     
 [[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
 
 ### 5) 키보드 레이아웃
-키보드 배열 다르게 해서 암호 문제로 제출됩니다.
+키보드 배열 다르게 해서 암호 문제로 제출됩니다.    
 [디코딩 사이트](https://awsm-tools.com/text/keyboard-layout)
 
 
 # 3. web
 ### 1) [크로스 사이트 스크립팅 - xss](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/web/xss.md)
+- [BYU CTF 2022 - Social Media](https://skyepodium.tistory.com/entry/BYU-CTF-2022-Social-Media-%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85?category=1028047)    
+정석적인 쿠키 탈취 문제
 
+- [[BSidesSF CTF] web-tutorial-1](https://skyepodium.tistory.com/entry/BSidesSF-CTF-web-tutorial-1?category=1028047)    
+약간의 응용이 필요
 # 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
 
 ### 2) 기초
-[[ctflearn] Basic Injection](https://skyepodium.tistory.com/entry/ctflearn-Basic-Injection?category=1029036)
+- [[ctflearn] Basic Injection](https://skyepodium.tistory.com/entry/ctflearn-Basic-Injection?category=1029036)
 
 ### 2) blind sql injection
-[SquareCTF 2020 - Deep Web Blog](https://velog.io/@skyepodium/SquareCTF-Writeup)
+- [SquareCTF 2020 - Deep Web Blog](https://velog.io/@skyepodium/SquareCTF-Writeup)
 
 # 5. stegnography
 ### 1) [foremost](http://foremost.sourceforge.net/) 🔥
