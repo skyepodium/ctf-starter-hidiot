@@ -46,8 +46,12 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
 
 ### 3) Base64 🔥
-기본중의 기본으로 정말 여러가지로 응용해서 나옵니다.   
+기본중의 기본으로 정말 여러가지로 응용해서 나옵니다.
+[base64 repair](https://base64.guru/tools/repair) - 살다보면 필요하게 되더라구
+
 - [[ctflearn] Base 2 2 the 6](https://skyepodium.tistory.com/entry/ctflearn-Base-2-2-the-6?category=1029036)
+- [[pico CTF] login](https://skyepodium.tistory.com/entry/pico-CTF-login)
+
 
 ### 4) [비즈네르 암호(vigenere cypher)](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
 문자열과 key를 기반으로 암복호화하는 알고리즘 입니다.     
