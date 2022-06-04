@@ -126,3 +126,9 @@ https://futureboy.us/stegano/decinput.html
 ifconfig | grep inet
 ```
 
+# 7. https 서버
+만약 해당 사이트가 https 프로토콜을 사용하고, 로컬의 서버가 http이면 전송이 불가능합니다.(https -> http 요청 불가)
+
+따라서, https 서버가 필요하면 postbin을 사용할 수 있습니다.
+
+[post bin](https://www.toptal.com/developers/postbin/)
