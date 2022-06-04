@@ -10,10 +10,10 @@ wargame - 자신의 페이스로 진행할 수 있는 환경
 
 ### 3) wargame
 좋은 워게임 사이트
-- [ctflearn](https://ctflearn.com/)
 - [picoCTF](https://picoctf.org/)
-- [HackCTF](https://ctf.j0n9hyun.xyz/)
+- [ctflearn](https://ctflearn.com/)
 - [ctf-d](http://ctf-d.com/)
+- [HackCTF](https://ctf.j0n9hyun.xyz/)
 
 ### 4) 대회
 매주 대회가 개최되며 일정은 [CTF TIME](https://ctftime.org/)에서 확인할 수 있습니다.
@@ -52,21 +52,24 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [[ctflearn] Base 2 2 the 6](https://skyepodium.tistory.com/entry/ctflearn-Base-2-2-the-6?category=1029036)
 - [[pico CTF] login](https://skyepodium.tistory.com/entry/pico-CTF-login)
 
+### 4) [ROT13 - caesar cypher](https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13))
+쉬운 문제로 종종 출제되거나 다른 문제에 응용됩니다.
+- [[pico CTF] caesar](https://skyepodium.tistory.com/entry/pico-CTF-caesar)
 
-### 4) [비즈네르 암호(vigenere cypher)](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
+### 5) [비즈네르 암호(vigenere cypher)](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
 문자열과 key를 기반으로 암복호화하는 알고리즘 입니다.     
 
 - [[ctflearn] Vigenere Cipher](https://skyepodium.tistory.com/entry/ctflearn-Vigenere-Cipher?category=1029036)
 
 - [구현](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
 
-### 5) 진법과 아스키
+### 6) 진법과 아스키
 정말 다양한 방법들이 있습니다, cyber chef를 적극 이용합니다.
 
 - [[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)     
 - [[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
 
-### 6) [모스부호](https://onlineasciitools.com/convert-morse-to-ascii)
+### 7) [모스부호](https://onlineasciitools.com/convert-morse-to-ascii)
 - [[cflearn] Morse Code](https://skyepodium.tistory.com/entry/cflearn-Morse-Code?category=1029036)
 
 ### 7) [키보드 레이아웃](https://awsm-tools.com/text/keyboard-layout)
