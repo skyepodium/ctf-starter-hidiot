@@ -128,8 +128,9 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [[pico CTF] information](https://skyepodium.tistory.com/entry/pico-CTF-information)
 
 ### 2) [Wireshark](https://www.wireshark.org/) 🔥🔥🔥
-패킷 덤프를 분석하는 프로그램
-- [[pico CTF] shark on wire 1](https://skyepodium.tistory.com/entry/pico-CTF-shark-on-wire-1)
+와이어 샤크 - 패킷 덤프를 분석하는 프로그램
+- [[pico CTF] shark on wire 1](https://skyepodium.tistory.com/entry/pico-CTF-shark-on-wire-1)      
+- [[n00bzCTF] tcpdump](https://skyepodium.tistory.com/entry/n00bzCTF-tcpdump)
 
 # 5. stegnography
 ### 1) [foremost](http://foremost.sourceforge.net/) 🔥
