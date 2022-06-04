@@ -73,18 +73,30 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 키보드 배열 다르게 해서 암호 문제로 제출됩니다.    
 - [[BCACTF 3.0] New Keyboard](https://skyepodium.tistory.com/entry/BCACTF-30-New-Keyboard?category=1028047)
 
-# 3. web
-### 1) [크로스 사이트 스크립팅 - xss](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/web/xss.md)
+# 2. web
+### 1) [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) 🔥🔥🔥
+웹이 어떤 프레임워크로 구성되어있는지 확인해주는 크롬 확장 프로그램, 개인적으로 정말 잘쓰고 있어서 추천!!!   
+
+![cover](./images/wappalyzer.png)
+
+
+### 2) [크로스 사이트 스크립팅 - xss](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/web/xss.md)
 - [BYU CTF 2022 - Social Media](https://skyepodium.tistory.com/entry/BYU-CTF-2022-Social-Media-%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85?category=1028047) - 정석적인 쿠키 탈취 문제
 
 - [[BSidesSF CTF] web-tutorial-1](https://skyepodium.tistory.com/entry/BSidesSF-CTF-web-tutorial-1?category=1028047) - 응용 문제
 
-### 2) Header
+### 3) Header
 - [[pico CTF] Who are you?
 ](https://skyepodium.tistory.com/entry/pico-CTF-Who-are-you)
 
-### 3) [자바스크립트 난독화 해제](https://beautifier.io/)
+### 4) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
+난독화 된것을 원래대로는 못돌리고, 예쁘게 포맷팅해서 분석해야합니다.
 
+[[pico CTF] Client-side-again](https://skyepodium.tistory.com/entry/pico-CTF-Client-side-again)
+
+### 4) 크롬 브라우저 **Search in all files**
+웹앱의 모든 리소스에서 문자열을 검색할 때 유용합니다.
+- [[pico CTF] Search source](https://skyepodium.tistory.com/entry/pico-CTF-Search-source)
 
 # 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
