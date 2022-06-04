@@ -37,25 +37,23 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
     square는 미국의 모바일 결제 기업입니다. 매년 CTF 대회를 개최하고, docker로 문제를 제공합니다. 정답도 포함되어 있습니다.
 
 # 1. crypto
-### 1) Cyber chef 🔥
+### 1) [Cyber chef](https://gchq.github.io/CyberChef/) 🔥
 다양한 암호 알고리즘의 디코딩, 인코딩을 온라인으로 지원합니다.
 
 사용법이 간편하고, 문자열 입력값에 따라 가장 유사항 디코딩 알고리즘도 추천해줍니다.
 
-[cyber chef 사이트](https://gchq.github.io/CyberChef/)
-
-### 2) [암호 알고리즘 판별](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/cipher-identifier.md)
+### 2) [암호 알고리즘 판별](https://www.dcode.fr/cipher-identifier) 
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
-[판별 사이트](https://www.dcode.fr/cipher-identifier)   
 
-### 3) [비즈네르 암호(vigenere cypher)](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
+### 3) [비즈네르 암호(vigenere cypher)](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
 문자열과 key를 기반으로 암복호화하는 알고리즘 입니다.     
-[디코딩 사이트](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
+
+- [[ctflearn] Vigenere Cipher](https://skyepodium.tistory.com/entry/ctflearn-Vigenere-Cipher?category=1029036)
+
+- [구현](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
 
 ### 4) 진법과 아스키
 정말 다양한 방법들이 있습니다, cyber chef를 적극 이용합니다.
-- 2진법, 8진법 - 아스키
-- 진법 충첩
 
 - [[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)     
 - [[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
@@ -67,11 +65,9 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 # 3. web
 ### 1) [크로스 사이트 스크립팅 - xss](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/web/xss.md)
-- [BYU CTF 2022 - Social Media](https://skyepodium.tistory.com/entry/BYU-CTF-2022-Social-Media-%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85?category=1028047)    
-정석적인 쿠키 탈취 문제
+- [BYU CTF 2022 - Social Media](https://skyepodium.tistory.com/entry/BYU-CTF-2022-Social-Media-%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85?category=1028047) - 정석적인 쿠키 탈취 문제
 
-- [[BSidesSF CTF] web-tutorial-1](https://skyepodium.tistory.com/entry/BSidesSF-CTF-web-tutorial-1?category=1028047)    
-약간의 응용이 필요
+- [[BSidesSF CTF] web-tutorial-1](https://skyepodium.tistory.com/entry/BSidesSF-CTF-web-tutorial-1?category=1028047) - 응용 문제
 # 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
 
