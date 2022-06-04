@@ -45,23 +45,29 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 2) [암호 알고리즘 판별](https://www.dcode.fr/cipher-identifier) 
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
 
-### 3) [비즈네르 암호(vigenere cypher)](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
+### 3) Base64 🔥
+기본중의 기본으로 정말 여러가지로 응용해서 나옵니다.   
+- [[ctflearn] Base 2 2 the 6](https://skyepodium.tistory.com/entry/ctflearn-Base-2-2-the-6?category=1029036)
+
+### 4) [비즈네르 암호(vigenere cypher)](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
 문자열과 key를 기반으로 암복호화하는 알고리즘 입니다.     
 
 - [[ctflearn] Vigenere Cipher](https://skyepodium.tistory.com/entry/ctflearn-Vigenere-Cipher?category=1029036)
 
 - [구현](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
 
-### 4) 진법과 아스키
+### 5) 진법과 아스키
 정말 다양한 방법들이 있습니다, cyber chef를 적극 이용합니다.
 
 - [[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)     
 - [[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
 
-### 5) 키보드 레이아웃
-키보드 배열 다르게 해서 암호 문제로 제출됩니다.    
-[디코딩 사이트](https://awsm-tools.com/text/keyboard-layout)
+### 6) [모스부호](https://onlineasciitools.com/convert-morse-to-ascii)
+- [[cflearn] Morse Code](https://skyepodium.tistory.com/entry/cflearn-Morse-Code?category=1029036)
 
+### 7) [키보드 레이아웃](https://awsm-tools.com/text/keyboard-layout)
+키보드 배열 다르게 해서 암호 문제로 제출됩니다.    
+- [[BCACTF 3.0] New Keyboard](https://skyepodium.tistory.com/entry/BCACTF-30-New-Keyboard?category=1028047)
 
 # 3. web
 ### 1) [크로스 사이트 스크립팅 - xss](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/web/xss.md)
@@ -97,12 +103,20 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 4) stegsolve
 색, 명암을 변경하여 숨겨진 문자열을 찾습니다.
 
-### 5) 스테그하이드 온라인
+### 5) exiftool
+파일속에 숨겨진 정보를 찾습니다.
+- [[ctflearn] WOW…. So Meta](https://skyepodium.tistory.com/entry/ctflearn-WOW%E2%80%A6-So-Meta?category=1029036)
+
+### 6) 스테그하이드 온라인
 명암, 색상을 변조합니다.
 https://stylesuxx.github.io/steganography/
 
-### 6) 숨겨진 문자열 찾기  
+### 7) 숨겨진 문자열 찾기  
 https://futureboy.us/stegano/decinput.html
+
+### 8) strings
+바이너리 파일을 문자열을 추출하는 함수
+[[ctflearn] Forensics 101](https://skyepodium.tistory.com/entry/ctflearn-Forensics-101?category=1029036)
 
 # 6. 팁
 ### 1) robots.txt
@@ -112,12 +126,26 @@ robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이
 - [[ctflearn] Where Can My Robot Go?](https://skyepodium.tistory.com/entry/ctflearn-Where-Can-My-Robot-Go?category=1029036)
 
 # 7. 기타
-### 1) 맥 아이피 확인
+### 1) | 파이프라인
+다음과 같이 쓰는 경우가 많습니다. `|` 파이프라인은 앞의 결과를 뒤 함수의 인풋으로 넣습니다.
+```
+cat flag.txt | grep flag{
+```
+### 1) grep
+grep 은 특정 내용이 포함된 문자열을 필터링 하는 함수입니다.
+```
+cat flag.txt | grep flag{
+```
+### 3) 맥 아이피 확인
 ```
 ifconfig | grep inet
 ```
 
-### 2) https 서버
+### 4) ls -al
+숨겨진 파일을 찾습니다.
+[[ctflearn] Taking LS](https://skyepodium.tistory.com/entry/ctflearn-Taking-LS?category=1029036)
+
+### 5) https 서버
 만약 사이트가 https 프로토콜을 사용하고, 로컬의 서버가 http이면 전송이 불가능합니다.(https -> http 요청 불가)
 
 따라서, https 서버가 필요하면 postbin을 사용할 수 있습니다. 사용법 간단합니다.
