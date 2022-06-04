@@ -1,8 +1,5 @@
 # CTF starter Hidiot
 
-CTF 에 참여할 때 자주 사용하는 내용 정리
-
-# CTF
 ### 1) 소개
 **CTF(Capture the Flag)** 는 간단히 말해서 **해킹 대회**
 
@@ -11,14 +8,21 @@ wargame - 자신의 페이스로 진행할 수 있는 환경
 ### 2) 학습 사이트
 [드림핵](https://dreamhack.io/)
 
-### 3) 대회
+### 3) wargame
+좋은 워게임 사이트
+- [ctflearn](https://ctflearn.com/)
+- [picoCTF](https://picoctf.org/)
+- [HackCTF](https://ctf.j0n9hyun.xyz/)
+- [ctf-d](http://ctf-d.com/)
+
+### 4) 대회
 매주 대회가 개최되며 일정은 [CTF TIME](https://ctftime.org/)에서 확인할 수 있습니다.
 
-대회 난이도가 높으면 성취감을 얻기 힘들기 때문에 낮은 레이팅 부터 시작합니다.
+대회 난이도가 높으면 성취감을 얻기 힘들기 때문에 낮은 레이팅 부터 시작하거나 워게임 부터 진행합니다.
 
 ![cover](./images/ctftime.png)
 
-### 4) writeup
+### 5) writeup
 문제를 어떻게 풀었는 기술하는 작업
 , 예시: [0xL4ugh-CTF-writeup](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup)
 
@@ -26,21 +30,12 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 구글링, 유튜브 등등 으로 검색가능합니다.
 
-
-### 5) wargame
-좋은 워게임 사이트
-- [ctflearn](https://ctflearn.com/)
-- [picoCTF](https://picoctf.org/)
-- [HackCTF](https://ctf.j0n9hyun.xyz/)
-- [ctf-d](http://ctf-d.com/)
-
 ### 6) 지난 대회
 대부분의 대회 종료 후 서버를 닫고, 문제를 공개하지 않습니다. 일부 대회의 경우 문제와 함께 답을 공개합니다.
 
 - [squareCTF](https://squarectf.com/)   
     square는 미국의 모바일 결제 기업입니다. 매년 CTF 대회를 개최하고, docker로 문제를 제공합니다. 정답도 포함되어 있습니다.
 
-# TIPS
 # 1. crypto
 ### 1) Cyber chef 🔥
 다양한 암호 알고리즘의 디코딩, 인코딩을 온라인으로 지원합니다.
