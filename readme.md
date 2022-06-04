@@ -1,8 +1,6 @@
 # CTF starter Hidiot
 
-잊어버려서 정리하려고
-
-Hidiot은 예전에 대회 나갔을 때 팀명
+CTF 에 참여할 때 자주 사용하는 내용을 정리
 
 # CTF
 ### 1) 소개
@@ -66,22 +64,43 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 # 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
 
+### 2) blind sql injection
+[SquareCTF 2020 - Deep Web Blog](https://velog.io/@skyepodium/SquareCTF-Writeup)
 
 # 5. stegnography
-- 명암, 색상 변조  
-스테그하이드 온라인    
+### 1) foremost
+포렌식용 툴인데, 파일 카빙용으로 사용 가능합니다. 개인적으로 제일 좋아합니다.
+
+윈도우에서는 [WSL(Windows Subsystem for Linux)](https://docs.microsoft.com/ko-kr/windows/wsl/install) 에 설치합니다.
+
+[[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
+
+### 2) binwalk
+이미지에 숨겨진 파일을 추출합니다.   
+[[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
+
+### 3) [zsteg](https://github.com/zed-0xff/zsteg)
+이미지에 숨겨진 문자열을 찾아냅니다.
+
+[[BCACTF 3.0] My New Friend](https://skyepodium.tistory.com/entry/BCACTF-30-My-New-Friend)
+
+### 4) stegsolve
+색, 명암을 변경하여 숨겨진 문자열을 찾습니다.
+
+### 5) 스테그하이드 온라인
+명암, 색상을 변조합니다.
 https://stylesuxx.github.io/steganography/
 
-- 숨겨진 문자열 찾기  
+### 6) 숨겨진 문자열 찾기  
 https://futureboy.us/stegano/decinput.html
 # 6. 기타
-1) 맥 아이피 확인
+### 1) 맥 아이피 확인
 ```
 ifconfig | grep inet
 ```
 
-# 7. https 서버
-만약 해당 사이트가 https 프로토콜을 사용하고, 로컬의 서버가 http이면 전송이 불가능합니다.(https -> http 요청 불가)
+### 2) https 서버
+만약 사이트가 https 프로토콜을 사용하고, 로컬의 서버가 http이면 전송이 불가능합니다.(https -> http 요청 불가)
 
 따라서, https 서버가 필요하면 postbin을 사용할 수 있습니다.
 
