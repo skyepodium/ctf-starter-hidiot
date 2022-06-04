@@ -1,8 +1,16 @@
+# SQL Injection cheet sheet
+
 ### 1) cheetsheet
 ```sql
+admin' or 'a' = 'a
+
+admin' --
+
 admin' or 1=1 -- -
 
-admin ' --
+admin'/*
+
+a' or 'a' = 'a
 ```
 
 ### 2) 탭

@@ -74,6 +74,14 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [BYU CTF 2022 - Social Media](https://skyepodium.tistory.com/entry/BYU-CTF-2022-Social-Media-%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85?category=1028047) - 정석적인 쿠키 탈취 문제
 
 - [[BSidesSF CTF] web-tutorial-1](https://skyepodium.tistory.com/entry/BSidesSF-CTF-web-tutorial-1?category=1028047) - 응용 문제
+
+### 2) Header
+- [[pico CTF] Who are you?
+](https://skyepodium.tistory.com/entry/pico-CTF-Who-are-you)
+
+### 3) [자바스크립트 난독화 해제](https://beautifier.io/)
+
+
 # 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
 
@@ -125,6 +133,7 @@ robots.txt는 웹 크롤러가 해당 경로에 접근하지 말라는 의미로
 
 robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이 아니더라도 여러 CTF 대회에서 먼저 확인하는 부분중 하나 입니다.
 - [[ctflearn] Where Can My Robot Go?](https://skyepodium.tistory.com/entry/ctflearn-Where-Can-My-Robot-Go?category=1029036)
+- [pico CTF - where are the robots](https://play.picoctf.org/practice?category=1&page=1&search=where%20are%20the%20robots)
 
 # 7. 기타
 ### 1) | 파이프라인
@@ -132,12 +141,12 @@ robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이
 ```
 cat flag.txt | grep flag{
 ```
-### 1) grep
+### 2) grep
 grep 은 특정 내용이 포함된 문자열을 필터링 하는 함수입니다.
 ```
 cat flag.txt | grep flag{
 ```
-### 3) 맥 아이피 확인
+### 3) 맥북 아이피 확인
 ```
 ifconfig | grep inet
 ```
