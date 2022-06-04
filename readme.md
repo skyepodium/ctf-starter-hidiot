@@ -59,5 +59,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 ![cover](./images/cipher-identifier.png)
 
-### 1) 비즈네르 암호(vigenere cypher)
+### 2) [비즈네르 암호(vigenere cypher)](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
 쉬운 문제로 종종 출제
+
+[Cyber chef](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30) 에서 decoding합니다.

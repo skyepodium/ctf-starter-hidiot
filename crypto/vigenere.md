@@ -3,7 +3,7 @@
 [블로그 설명](https://velog.io/@skyepodium/Vigenere-Cipher-%EB%B9%84%EC%A6%88%EB%84%A4%EB%A5%B4-%EC%95%94%ED%98%B8-%EA%B5%AC%ED%98%84)
 
 # 1. 개요
-비즈네르 암호는 다음 표를 가지고, 암호화 하는 방법입니다. 
+비즈네르 암호는 다음 표와 key를 가지고, 암호화 하는 방법입니다. 
 
 [cyber chef](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)를 사용하기만 하다가 한번 직접 만들어보려구
 
