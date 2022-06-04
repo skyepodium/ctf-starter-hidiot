@@ -52,7 +52,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 # 2. crypto
 ### 1) 암호 알고리즘 판별
-어느 알고리즘인지 감이 안잡힐 때 아래 사이트에서 대략적으로 파악할 수 있습니다.
+어떤 알고리즘인지 감이 안잡힐 때 아래 사이트에서 대략적으로 파악할 수 있습니다.
 
 **Vigenere Cipher**로 암호화된 문장을 넣은 경우 예시
 [cipher-identifier](https://www.dcode.fr/cipher-identifier)
@@ -63,3 +63,66 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 쉬운 문제로 종종 출제
 
 [Cyber chef](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30) 에서 decoding합니다.
+
+# 3. web
+### 1) [크로스 사이트 스크립팅 - xss]((https://github.com/skyepodium/ctf-starter-hidiot/blob/main/web/xss.md))
+
+# 4. SQLI
+sql injection
+1) cheetsheel
+```sql
+admin' or 1=1 -- -
+
+admin ' --
+```
+
+### @) 탭
+SQL 구분자 공백 이외에 탭을 구분자로 사용해도 동일하게 동작합니다.
+
+### 3) or
+|| 로 변경 가능하다.
+
+### 4) -- 
+MySql에서 -- 로 주석 처리하는 경우 -- 뒤에 구분자가 와야합니다.
+
+구분자 예시)
+```
+공백, 탭
+--
+#
+/**/
+```
+
+### 5) like
+like로 필터링 우회가능
+```sql
+SELECT *
+FROM USER
+WHERE ID LIKE 'ad___'
+```
+### 6) 문자열 사이 공백
+mysql에서 문자열 사이에 공백이 있으면 문자열 합성이 발생합니다.
+
+```sql
+SELECT *
+FROM USER
+WHERE ID LIKE 'ad'	'min'
+```
+
+### 7) 세미콜론
+원래 SQL이 실행되기 위해서는 세미콜론이 있어야하는데, PHP - mysqli_query 와 같은 함수에서 자동으로 넣어줍니다.
+
+
+# 5. stegnography
+- 명암, 색상 변조  
+스테그하이드 온라인    
+https://stylesuxx.github.io/steganography/
+
+- 숨겨진 문자열 찾기  
+https://futureboy.us/stegano/decinput.html
+# 6. 기타
+1) 맥 아이피 확인
+```
+ifconfig | grep inet
+```
+
