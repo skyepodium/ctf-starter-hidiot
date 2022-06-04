@@ -42,15 +42,30 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 # TIPS
 # 1. crypto
-### 1) [암호 알고리즘 판별](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/cipher-identifier.md)
+### 1) Cyber chef 🔥
+다양한 암호 알고리즘의 디코딩, 인코딩을 온라인으로 지원합니다.
+
+사용법이 간편하고, 문자열 입력값에 따라 가장 유사항 디코딩 알고리즘도 추천해줍니다.
+
+[cyber chef 사이트](https://gchq.github.io/CyberChef/)
+
+### 2) [암호 알고리즘 판별](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/cipher-identifier.md)
 [판별 사이트](https://www.dcode.fr/cipher-identifier)   
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
 
-### 2) [비즈네르 암호(vigenere cypher)](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
+### 3) [비즈네르 암호(vigenere cypher)](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
 문자열과 key를 기반으로 암복호화하는 알고리즘 입니다.
 [디코딩 사이트](https://gchq.github.io/CyberChef/#recipe=Vigen%C3%A8re_Decode('blorpy')&input=Z3dveHtSZ3Fzc2loWXNwT250cXB4c30)
 
-### 3) [키보드 레이아웃]
+### 4) 진법과 아스키
+정말 다양한 방법들이 있습니다, cyber chef를 적극 이용합니다.
+- 2진법, 8진법 - 아스키
+- 진법 충첩
+
+[[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)
+[[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
+
+### 5) 키보드 레이아웃
 키보드 배열 다르게 해서 암호 문제로 제출됩니다.
 [디코딩 사이트](https://awsm-tools.com/text/keyboard-layout)
 
@@ -61,18 +76,21 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 # 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
 
+### 2) 기초
+[[ctflearn] Basic Injection](https://skyepodium.tistory.com/entry/ctflearn-Basic-Injection?category=1029036)
+
 ### 2) blind sql injection
 [SquareCTF 2020 - Deep Web Blog](https://velog.io/@skyepodium/SquareCTF-Writeup)
 
 # 5. stegnography
-### 1) [foremost](http://foremost.sourceforge.net/)
-포렌식용 툴인데, 파일 카빙용으로 사용 가능합니다. 개인적으로 제일 좋아합니다.
+### 1) [foremost](http://foremost.sourceforge.net/) 🔥
+포렌식용 툴인데, 파일 카빙할 때 사용 가능합니다. 개인적으로 제일 좋아합니다.
 
 윈도우에서는 [WSL(Windows Subsystem for Linux)](https://docs.microsoft.com/ko-kr/windows/wsl/install) 에 설치합니다.
 
 [[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
 
-### 2) binwalk
+### 2) [binwalk](https://github.com/ReFirmLabs/binwalk)
 이미지에 숨겨진 파일을 추출합니다.   
 [[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
 
@@ -90,7 +108,15 @@ https://stylesuxx.github.io/steganography/
 
 ### 6) 숨겨진 문자열 찾기  
 https://futureboy.us/stegano/decinput.html
-# 6. 기타
+
+# 6. 팁
+### 1) robots.txt
+robots.txt는 웹 크롤러가 해당 경로에 접근하지 말라는 의미로 domain/robots.txt에 지정합니다.
+
+robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이 아니더라도 여러 CTF 대회에서 먼저 확인하는 부분중 하나 입니다.
+[[ctflearn] Where Can My Robot Go?](https://skyepodium.tistory.com/entry/ctflearn-Where-Can-My-Robot-Go?category=1029036)
+
+# 7. 기타
 ### 1) 맥 아이피 확인
 ```
 ifconfig | grep inet
