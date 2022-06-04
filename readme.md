@@ -2,6 +2,8 @@
 
 그냥 자꾸 잊어버려서 정리하려고 만든 저장소
 
+Hidiot은 예전에 대회 나갔을 때 팀명
+
 # 1. CTF
 ### 1) 소개
 CTF는 간단히 말해서 **해킹 대회**
@@ -42,5 +44,20 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 일부 대회의 경우 문제와 함께 답을 공개합니다.
 
-[squareCTF](https://squarectf.com/)
+- [squareCTF](https://squarectf.com/)   
+    square는 미국의 모바일 결제 기업입니다. 매년 CTF 대회를 개최하고, docker로 문제를 제공합니다. 답도 포함되어 있습니다.
 
+# TIPS
+사실 이것 때문에 만듬
+
+# 2. crypto
+### 1) 암호 알고리즘 판별
+어느 알고리즘인지 감이 안잡힐 때 아래 사이트에서 대략적으로 파악할 수 있습니다.
+
+**Vigenere Cipher**로 암호화된 문장을 넣은 경우 예시
+[cipher-identifier](https://www.dcode.fr/cipher-identifier)
+
+![cover](./images/cipher-identifier.png)
+
+### 1) 비즈네르 암호(vigenere cypher)
+쉬운 문제로 종종 출제
