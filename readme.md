@@ -37,7 +37,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
     square는 미국의 모바일 결제 기업입니다. 매년 CTF 대회를 개최하고, docker로 문제를 제공합니다. 정답도 포함되어 있습니다.
 
 # 1. crypto
-### 1) [Cyber chef](https://gchq.github.io/CyberChef/) 🔥
+### 1) [Cyber chef](https://gchq.github.io/CyberChef/) 🔥🔥🔥
 다양한 암호 알고리즘의 디코딩, 인코딩을 온라인으로 지원합니다.
 
 사용법이 간편하고, 문자열 입력값에 따라 가장 유사항 디코딩 알고리즘도 추천해줍니다.
@@ -45,7 +45,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 2) [암호 알고리즘 판별](https://www.dcode.fr/cipher-identifier) 
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
 
-### 3) Base64 🔥
+### 3) Base64 🔥🔥🔥
 기본중의 기본으로 정말 여러가지로 응용해서 나옵니다.
 [base64 repair](https://base64.guru/tools/repair) - 살다보면 필요하게 되더라구
 
@@ -120,17 +120,28 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 - [[pico CTF] information](https://skyepodium.tistory.com/entry/pico-CTF-information)
 
+### 2) [Wireshark](https://www.wireshark.org/) 🔥🔥🔥
+패킷 덤프를 분석하는 프로그램
+- [[pico CTF] shark on wire 1](https://skyepodium.tistory.com/entry/pico-CTF-shark-on-wire-1)
+
 # 5. stegnography
 ### 1) [foremost](http://foremost.sourceforge.net/) 🔥
 포렌식용 툴인데, 파일 카빙할 때 사용 가능합니다. 개인적으로 제일 좋아합니다.
 
 윈도우에서는 [WSL(Windows Subsystem for Linux)](https://docs.microsoft.com/ko-kr/windows/wsl/install) 에 설치합니다.
 
+```
+foremost -t all a.png
+```
+
 - [[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
 
 ### 2) [binwalk](https://github.com/ReFirmLabs/binwalk)
 이미지에 숨겨진 파일을 추출합니다.   
-- [[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
+```
+binwalk --extract --dd=".*" a.png
+```
+- [[pico CTF] Matryoshka doll](https://skyepodium.tistory.com/entry/pico-CTF-Matryoshka-doll)
 
 ### 3) [zsteg](https://github.com/zed-0xff/zsteg)
 이미지에 숨겨진 문자열을 찾아냅니다.
@@ -154,7 +165,9 @@ https://futureboy.us/stegano/decinput.html
 
 ### 8) strings
 바이너리 파일을 문자열을 추출하는 함수
-[[ctflearn] Forensics 101](https://skyepodium.tistory.com/entry/ctflearn-Forensics-101?category=1029036)
+- [[ctflearn] Forensics 101](https://skyepodium.tistory.com/entry/ctflearn-Forensics-101?category=1029036)
+
+- [[pico CTF] strings it](https://skyepodium.tistory.com/entry/pico-CTF-strings-it)
 
 # 6. 팁
 ### 1) robots.txt
