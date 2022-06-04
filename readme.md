@@ -89,16 +89,21 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [[pico CTF] Who are you?
 ](https://skyepodium.tistory.com/entry/pico-CTF-Who-are-you)
 
-### 4) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
+### 4) file traversal
+웹 디렉토리 찾는 문제, 자주 출제됩니다.
+
+[Forbidden Paths](https://skyepodium.tistory.com/entry/pico-CTF-Forbidden-Paths)
+
+### 5) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
 난독화 된것을 원래대로는 못돌리고, 예쁘게 포맷팅해서 분석해야합니다.
 
 [[pico CTF] Client-side-again](https://skyepodium.tistory.com/entry/pico-CTF-Client-side-again)
 
-### 4) 크롬 브라우저 **Search in all files**
+### 6) 크롬 브라우저 **Search in all files**
 웹앱의 모든 리소스에서 문자열을 검색할 때 유용합니다.
 - [[pico CTF] Search source](https://skyepodium.tistory.com/entry/pico-CTF-Search-source)
 
-# 4. SQL Injection
+# 3. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
 
 ### 2) 기초
@@ -106,6 +111,14 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 ### 2) blind sql injection
 - [SquareCTF 2020 - Deep Web Blog](https://velog.io/@skyepodium/SquareCTF-Writeup)
+
+# 4. forensics
+### 1) Hex editor 🔥🔥🔥
+헥스 에디터는 필수품으로 정말 많은 분야에서 사용됩니다.
+- windows - https://mh-nexus.de/en/hxd/
+- mac - ihex
+
+- [[pico CTF] information](https://skyepodium.tistory.com/entry/pico-CTF-information)
 
 # 5. stegnography
 ### 1) [foremost](http://foremost.sourceforge.net/) 🔥
