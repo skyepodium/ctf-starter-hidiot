@@ -130,6 +130,9 @@ phar
 웹앱의 모든 리소스에서 문자열을 검색할 때 유용합니다.
 - [[pico CTF] Search source](https://skyepodium.tistory.com/entry/pico-CTF-Search-source)
 
+### 11) 특이한 문제
+- [PDF - latex](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-textex)
+
 # 3. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
 
