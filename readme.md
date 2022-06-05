@@ -98,8 +98,30 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 네트워크로 받은 파라미터를 통해 시스템 콜을 사용하는 취약점입니다.
 - [UMassCTF 2021 - Hermit - Part 1](https://velog.io/@skyepodium/UMassCTF-2021-writeup)
 
-### 6) php
-- php파일로 인식될 수 있는 확장자
+### 6) 자바스크립트 재정의
+클라이언트 사이드에서 자바스크립트로 필터링 하고 있다면, 다음 문제처럼 그냥 재정의 해버립시다.
+- [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
+
+### 7) 커맨드라인 인젝션
+';' 세미콜론으로 커맨드 구분해서 나오는 경우가 있습니다.
+- [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
+
+### 8) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
+난독화 된것을 원래대로는 못돌리고, 예쁘게 포맷팅해서 분석해야합니다.
+
+[[pico CTF] Client-side-again](https://skyepodium.tistory.com/entry/pico-CTF-Client-side-again)
+
+### 9) 크롬 브라우저 **Search in all files**
+웹앱의 모든 리소스에서 문자열을 검색할 때 유용합니다.
+- [[pico CTF] Search source](https://skyepodium.tistory.com/entry/pico-CTF-Search-source)
+
+### 10) 특이한 문제
+- [PDF - latex](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-textex)
+
+# 3. php
+php는 웹에 분류되지만, 자주 출제됩니다.
+
+### 1) php파일로 인식될 수 있는 확장자
 ```
 php
 php3
@@ -110,29 +132,13 @@ pht
 phtml
 phar
 ```
-- [php pregreplace](https://skyepodium.tistory.com/entry/php-pregreplace)
+### 2) [php pregreplace](https://skyepodium.tistory.com/entry/php-pregreplace)
+문자열 필터링
+### 3) php filter bypass
+특정 문자열 필터를 바이 패싱 하는 문제
+- [[EZCTF] I made a blog!](https://skyepodium.tistory.com/entry/EZCTF-I-made-a-blog) - base64 사용
 
-### 7) 자바스크립트 재정의
-클라이언트 사이드에서 자바스크립트로 필터링 하고 있다면, 다음 문제처럼 그냥 재정의 해버립시다.
-- [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
-
-### 8) 커맨드라인 인젝션
-';' 세미콜론으로 커맨드 구분해서 나오는 경우가 있습니다.
-- [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
-
-### 9) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
-난독화 된것을 원래대로는 못돌리고, 예쁘게 포맷팅해서 분석해야합니다.
-
-[[pico CTF] Client-side-again](https://skyepodium.tistory.com/entry/pico-CTF-Client-side-again)
-
-### 10) 크롬 브라우저 **Search in all files**
-웹앱의 모든 리소스에서 문자열을 검색할 때 유용합니다.
-- [[pico CTF] Search source](https://skyepodium.tistory.com/entry/pico-CTF-Search-source)
-
-### 11) 특이한 문제
-- [PDF - latex](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-textex)
-
-# 3. SQL Injection
+# 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
 
 ### 2) 주석 처리
@@ -152,7 +158,7 @@ INSERT 구문의 value에서는 불가능합니다.
 union을 사용하는 방법으로 유용합니다.
 - [[BSidesSF CTF] Sequels: A New Bug](https://skyepodium.tistory.com/entry/BSidesSF-CTF-Sequels-A-New-Bug)
 
-# 4. forensics
+# 5. forensics
 ### 1) Hex editor 🔥🔥🔥
 헥스 에디터는 필수품으로 정말 많은 분야에서 사용됩니다.
 - windows - https://mh-nexus.de/en/hxd/
@@ -169,7 +175,7 @@ union을 사용하는 방법으로 유용합니다.
 zip 파일을 여는 프로그램
 - [CyberYoddha CTF - Crack the Zip!](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#2-crack-the-zip)
 
-# 5. stegnography
+# 6. stegnography
 ### 1) [foremost](http://foremost.sourceforge.net/) 🔥
 포렌식용 툴인데, 파일 카빙할 때 사용 가능합니다. 개인적으로 제일 좋아합니다.
 
@@ -218,7 +224,7 @@ https://futureboy.us/stegano/decinput.html
 
 
 
-# 6 . reversing
+# 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
 NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니다.
 - 디 어셈블러 - 바이너리 코드의 어셈블리 코드 확인
@@ -230,7 +236,7 @@ NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니�
 jar를 디컴파일 하는 경우 jadx-gui를 사용합니다.
 
 
-# 7. pwnable 🔥🔥🔥
+# 8. pwnable 🔥🔥🔥
 ### 1) [pwntools](https://github.com/Gallopsled/pwntools)
 exploit 파이썬 라이브러리
 파이썬2 기반이어서 가상환경 구축하고 사용합니다.
@@ -255,11 +261,11 @@ exploit 파이썬 라이브러리
 포맷 스트링 공격 몇번 해보면 감이 옵니다.
 - [0xL4ugh CTF - Trigger Happy](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup#2-trigger-happy)
 
-# 8. programming
+# 9. programming
 보안과는 관련없이 프로그래밍을 하는 문제가 있습니다. 파이썬으로 진행하면 유리한 점이 많습니다.
 - [[pwnable.kr] coin1](https://velog.io/@skyepodium/pwnable-coin1)
 
-# 9. 팁
+# 10. 팁
 ### 1) robots.txt
 robots.txt는 웹 크롤러가 해당 경로에 접근하지 말라는 의미로 domain/robots.txt에 지정합니다.
 
@@ -270,7 +276,7 @@ robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이
 ### 2) [매직 해시](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/hash/magic-hash.md)
 불리언 문맥에서 0으로 평가받을 수 있는 해시들의 모음입니다.
 
-# 10. 기타
+# 11. 기타
 ### 1) | 파이프라인
 다음과 같이 쓰는 경우가 많습니다. `|` 파이프라인은 앞의 결과를 뒤 함수의 인풋으로 넣습니다.
 ```
