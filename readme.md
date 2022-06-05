@@ -208,7 +208,11 @@ exploit 파이썬 라이브러리
 \x31\xc0\x50\x68\x6e\x2f\x73\x68\x68\x2f\x2f\x62\x69\x89\xe3\x31\xc9\x31\xd2\xb0\x08\x40\x40\x40\xcd\x80'
 ```
 
-# 8. 팁
+# 8. programming
+보안과는 관련없이 프로그래밍을 하는 문제가 있습니다. 파이썬으로 진행하면 유리한 점이 많습니다.
+- [[pwnable.kr] coin1](https://velog.io/@skyepodium/pwnable-coin1)
+
+# 9. 팁
 ### 1) robots.txt
 robots.txt는 웹 크롤러가 해당 경로에 접근하지 말라는 의미로 domain/robots.txt에 지정합니다.
 
@@ -216,7 +220,7 @@ robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이
 - [[ctflearn] Where Can My Robot Go?](https://skyepodium.tistory.com/entry/ctflearn-Where-Can-My-Robot-Go?category=1029036)
 - [pico CTF - where are the robots](https://play.picoctf.org/practice?category=1&page=1&search=where%20are%20the%20robots)
 
-# 9. 기타
+# 10. 기타
 ### 1) | 파이프라인
 다음과 같이 쓰는 경우가 많습니다. `|` 파이프라인은 앞의 결과를 뒤 함수의 인풋으로 넣습니다.
 ```
