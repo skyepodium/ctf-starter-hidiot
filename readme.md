@@ -110,6 +110,7 @@ pht
 phtml
 phar
 ```
+- [php pregreplace](https://skyepodium.tistory.com/entry/php-pregreplace)
 
 ### 7) 자바스크립트 재정의
 클라이언트 사이드에서 자바스크립트로 필터링 하고 있다면, 다음 문제처럼 그냥 재정의 해버립시다.
