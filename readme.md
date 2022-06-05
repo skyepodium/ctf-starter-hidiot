@@ -67,7 +67,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 - [[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)     
 - [[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
-
+- [[EZCTF] Qweauty and the Beast](https://skyepodium.tistory.com/entry/EZCTF-Qweauty-and-the-Beast)
 ### 7) [모스부호](https://onlineasciitools.com/convert-morse-to-ascii)
 - [[EZCTF] More sense](https://skyepodium.tistory.com/entry/EZCTF-More-sense)
 - [[cflearn] Morse Code](https://skyepodium.tistory.com/entry/cflearn-Morse-Code?category=1029036)
@@ -75,6 +75,11 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 7) [키보드 레이아웃](https://awsm-tools.com/text/keyboard-layout)
 키보드 배열 다르게 해서 암호 문제로 제출됩니다.    
 - [[BCACTF 3.0] New Keyboard](https://skyepodium.tistory.com/entry/BCACTF-30-New-Keyboard?category=1028047)
+
+### 8) 특이한 알고리즘
+쉬운대회에서는 **crypto** 영역에 정말 특이한 알고리즘을 가져옵니다.
+- [Multi-tap Phone](https://skyepodium.tistory.com/entry/EZCTF-No-kidding)
+- [줌 아웃](https://skyepodium.tistory.com/entry/EZCTF-OMG)
 
 # 2. web
 ### 1) [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) 🔥🔥🔥
