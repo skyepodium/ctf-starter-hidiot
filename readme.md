@@ -166,6 +166,10 @@ union을 사용하는 방법으로 유용합니다.
 - [[pico CTF] shark on wire 1](https://skyepodium.tistory.com/entry/pico-CTF-shark-on-wire-1)      
 - [[n00bzCTF] tcpdump](https://skyepodium.tistory.com/entry/n00bzCTF-tcpdump)
 
+### 3) fcrack
+zip 파일을 여는 프로그램
+- [CyberYoddha CTF - Crack the Zip!](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#2-crack-the-zip)
+
 # 5. stegnography
 ### 1) [foremost](http://foremost.sourceforge.net/) 🔥
 포렌식용 툴인데, 파일 카빙할 때 사용 가능합니다. 개인적으로 제일 좋아합니다.
@@ -192,6 +196,8 @@ binwalk --extract --dd=".*" a.png
 
 ### 4) stegsolve
 색, 명암을 변경하여 숨겨진 문자열을 찾습니다.
+- [CyberYoddha CTF - Steg 2](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#4-steg-2)
+- [syskronCTF - 5. Wednesday](https://velog.io/@skyepodium/syskronCTF-Writeup#5-wednesday)
 
 ### 5) exiftool
 파일속에 숨겨진 정보를 찾습니다.
@@ -236,7 +242,8 @@ exploit 파이썬 라이브러리
 // 32bit - 26 바이트
 \x31\xc0\x50\x68\x6e\x2f\x73\x68\x68\x2f\x2f\x62\x69\x89\xe3\x31\xc9\x31\xd2\xb0\x08\x40\x40\x40\xcd\x80'
 ```
-
+### 3) 코드 분석
+- [CyberYoddha CTF - Password 1](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#1-password-1)
 
 
 ### 3) Buffer over flow
