@@ -60,7 +60,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 - [[ctflearn] Vigenere Cipher](https://skyepodium.tistory.com/entry/ctflearn-Vigenere-Cipher?category=1029036)
 
-- [비즈네르 파이썬 구현](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
+- [[Vigenere Cipher] 비즈네르 암호 구현](https://velog.io/@skyepodium/Vigenere-Cipher-%EB%B9%84%EC%A6%88%EB%84%A4%EB%A5%B4-%EC%95%94%ED%98%B8-%EA%B5%AC%ED%98%84)
 
 ### 6) 진법과 아스키
 정말 다양한 방법들이 있습니다, cyber chef를 적극 이용합니다.
