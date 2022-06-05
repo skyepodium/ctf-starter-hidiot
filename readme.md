@@ -213,6 +213,7 @@ binwalk --extract --dd=".*" a.png
 ### 6) 스테가노그라피 온라인
 숨겨진 문자열을 찾습니다.
 https://stylesuxx.github.io/steganography/
+- [[EZCTF] Nobody's perfect](https://skyepodium.tistory.com/entry/EZCTF-Nobodys-perfect)
 
 ### 7) 스테그하이드 🔥
 https://futureboy.us/stegano/decinput.html
