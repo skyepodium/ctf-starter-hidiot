@@ -112,12 +112,21 @@ pht
 phtml
 phar
 ```
-### 7) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
+
+### 7) 자바스크립트 재정의
+클라이언트 사이드에서 자바스크립트로 필터링 하고 있다면, 다음 문제처럼 그냥 재정의 해버립시다.
+- [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
+
+### 8) 커맨드라인 인젝션
+';' 세미콜론으로 커맨드 구분해서 나오는 경우가 있습니다.
+- [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
+
+### 9) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
 난독화 된것을 원래대로는 못돌리고, 예쁘게 포맷팅해서 분석해야합니다.
 
 [[pico CTF] Client-side-again](https://skyepodium.tistory.com/entry/pico-CTF-Client-side-again)
 
-### 8) 크롬 브라우저 **Search in all files**
+### 10) 크롬 브라우저 **Search in all files**
 웹앱의 모든 리소스에서 문자열을 검색할 때 유용합니다.
 - [[pico CTF] Search source](https://skyepodium.tistory.com/entry/pico-CTF-Search-source)
 
