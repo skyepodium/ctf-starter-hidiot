@@ -201,6 +201,7 @@ binwalk --extract --dd=".*" a.png
 
 ### 4) stegsolve
 색, 명암을 변경하여 숨겨진 문자열을 찾습니다.
+- [[EZCTF] Neo](https://skyepodium.tistory.com/entry/EZCTF-Neo)
 - [CyberYoddha CTF - Steg 2](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#4-steg-2)
 - [syskronCTF - 5. Wednesday](https://velog.io/@skyepodium/syskronCTF-Writeup#5-wednesday)
 
