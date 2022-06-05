@@ -124,14 +124,20 @@ phar
 # 3. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
 
-### 2) 기초
+### 2) 주석 처리
+sql 에서 주석 처리는 DB 마다 다르지만 MySql에서는 '--' 으로 할 수 있습니다.
+
+다만, 이는 where 절에서 가능하며
+INSERT 구문의 value에서는 불가능합니다.
+
+### 3) 기초
 - [[ctflearn] Basic Injection](https://skyepodium.tistory.com/entry/ctflearn-Basic-Injection?category=1029036)
 
-### 2) blind sql injection 🔥 
+### 4) blind sql injection 🔥 
 브루트 포스와 함께 사용하며, 내가 생각하는 데이터가 맞는지 맞추면서 진행됩니다.
 - [SquareCTF 2020 - Deep Web Blog](https://velog.io/@skyepodium/SquareCTF-Writeup)
 
-### 3) union sql injection 🔥
+### 5) union sql injection 🔥
 union을 사용하는 방법으로 유용합니다.
 - [[BSidesSF CTF] Sequels: A New Bug](https://skyepodium.tistory.com/entry/BSidesSF-CTF-Sequels-A-New-Bug)
 
