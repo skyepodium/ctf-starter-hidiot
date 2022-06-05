@@ -210,13 +210,12 @@ binwalk --extract --dd=".*" a.png
 - [[ctflearn] WOW…. So Meta](https://skyepodium.tistory.com/entry/ctflearn-WOW%E2%80%A6-So-Meta?category=1029036)
 - [[ctflearn] Snowboard](https://skyepodium.tistory.com/entry/ctflearn-Snowboard)
 
-### 6) 스테가노그라피 온라인
+### 6) [스테가노그라피 온라인](https://stylesuxx.github.io/steganography/)
 숨겨진 문자열을 찾습니다.
-https://stylesuxx.github.io/steganography/
 - [[EZCTF] Nobody's perfect](https://skyepodium.tistory.com/entry/EZCTF-Nobodys-perfect)
 
-### 7) 스테그하이드 🔥
-https://futureboy.us/stegano/decinput.html
+### 7) [스테그하이드](https://futureboy.us/stegano/decinput.html) 🔥
+- [[EZCTF] Bernie](https://skyepodium.tistory.com/entry/EZCTF-Bernie)
 
 ### 8) strings
 바이너리 파일을 문자열을 추출하는 함수
