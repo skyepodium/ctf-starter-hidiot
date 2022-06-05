@@ -184,6 +184,8 @@ union을 사용하는 방법으로 유용합니다.
 zip 파일을 여는 프로그램
 - [CyberYoddha CTF - Crack the Zip!](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#2-crack-the-zip)
 
+
+
 # 6. stegnography
 ### 1) [foremost](http://foremost.sourceforge.net/) 🔥
 포렌식용 툴인데, 파일 카빙할 때 사용 가능합니다. 개인적으로 제일 좋아합니다.
@@ -232,7 +234,9 @@ binwalk --extract --dd=".*" a.png
 
 - [[pico CTF] strings it](https://skyepodium.tistory.com/entry/pico-CTF-strings-it)
 
-
+### 9) [audacity](https://www.audacityteam.org/)
+음향 프로그램, 스펙트로그램 이외에도, 음악 뒤집기, 속도 조절등을 수행합니다.
+- [[EZCTF] American](https://skyepodium.tistory.com/entry/EZCTF-American) - 스펙트로 그램
 
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
