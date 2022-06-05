@@ -3,13 +3,12 @@
 ### 1) 소개
 **CTF(Capture the Flag)** 는 간단히 말해서 **해킹 대회**
 
-wargame - 자신의 페이스로 진행할 수 있는 환경
-
 ### 2) 학습 사이트
 [드림핵](https://dreamhack.io/) - 정말 좋아요
 
 ### 3) wargame
-좋은 워게임 사이트
+wargame은 자신의 페이스로 진행할 수 있는 환경입니다.      
+
 - [picoCTF](https://picoctf.org/)
 - [ctflearn](https://ctflearn.com/)
 - [ctf-d](http://ctf-d.com/)
@@ -47,10 +46,10 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 ### 3) Base64 🔥🔥🔥
 기본중의 기본으로 정말 여러가지로 응용해서 나옵니다.
-[base64 repair](https://base64.guru/tools/repair) - 살다보면 필요하게 되더라구
-
+- [base64 repair](https://base64.guru/tools/repair) - 살다보면 필요하게 되더라구
 - [[ctflearn] Base 2 2 the 6](https://skyepodium.tistory.com/entry/ctflearn-Base-2-2-the-6?category=1029036)
 - [[pico CTF] login](https://skyepodium.tistory.com/entry/pico-CTF-login)
+- [파이썬 구현](https://velog.io/@skyepodium/base64-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B5%AC%ED%98%84)
 
 ### 4) [ROT13 - caesar cypher](https://gchq.github.io/CyberChef/#recipe=ROT13(true,true,false,13))
 쉬운 문제로 종종 출제되거나 다른 문제에 응용됩니다.
@@ -61,7 +60,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 - [[ctflearn] Vigenere Cipher](https://skyepodium.tistory.com/entry/ctflearn-Vigenere-Cipher?category=1029036)
 
-- [구현](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
+- [비즈네르 파이썬 구현](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/crypto/vigenere.md)
 
 ### 6) 진법과 아스키
 정말 다양한 방법들이 있습니다, cyber chef를 적극 이용합니다.
@@ -182,7 +181,34 @@ https://futureboy.us/stegano/decinput.html
 
 - [[pico CTF] strings it](https://skyepodium.tistory.com/entry/pico-CTF-strings-it)
 
-# 6. 팁
+
+
+# 6 . reversing
+### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
+NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니다.
+- 디 어셈블러 - 바이너리 코드의 어셈블리 코드 확인
+- 디 컴파일러 - 바이너리 코드로 부터 원래의 코드 확인
+
+리버싱을 하려면 디 컴파일러가 필요합니다. 유명한 도구는 IDA인데 가격이 비싸서, 무료인 기드라를 사용합니다. 
+
+### 2) [jadx-gui](https://velog.io/@skyepodium/%EB%A7%A5-jadx-gui-%EC%84%A4%EC%B9%98)
+jar를 디컴파일 하는 경우 jadx-gui를 사용합니다.
+
+
+
+# 7. pwnable 🔥🔥🔥
+### 1) [pwntools](https://github.com/Gallopsled/pwntools)
+exploit 파이썬 라이브러리
+파이썬2 기반이어서 가상환경 구축하고 사용합니다.
+다양한 기능이 있고, 효율성이 좋아서 사용합니다.
+
+### 2) 쉘코드
+```
+// 32bit - 26 바이트
+\x31\xc0\x50\x68\x6e\x2f\x73\x68\x68\x2f\x2f\x62\x69\x89\xe3\x31\xc9\x31\xd2\xb0\x08\x40\x40\x40\xcd\x80'
+```
+
+# 8. 팁
 ### 1) robots.txt
 robots.txt는 웹 크롤러가 해당 경로에 접근하지 말라는 의미로 domain/robots.txt에 지정합니다.
 
@@ -190,7 +216,7 @@ robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이
 - [[ctflearn] Where Can My Robot Go?](https://skyepodium.tistory.com/entry/ctflearn-Where-Can-My-Robot-Go?category=1029036)
 - [pico CTF - where are the robots](https://play.picoctf.org/practice?category=1&page=1&search=where%20are%20the%20robots)
 
-# 7. 기타
+# 9. 기타
 ### 1) | 파이프라인
 다음과 같이 쓰는 경우가 많습니다. `|` 파이프라인은 앞의 결과를 뒤 함수의 인풋으로 넣습니다.
 ```
