@@ -39,14 +39,14 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 1) [Cyber chef](https://gchq.github.io/CyberChef/) 🔥🔥🔥
 다양한 암호 알고리즘의 디코딩, 인코딩을 온라인으로 지원합니다.
 
-사용법이 간편하고, 문자열 입력값에 따라 가장 유사항 디코딩 알고리즘도 추천해줍니다.
+사용법이 간편하고, 문자열 입력값에 따라 가장 유사한 디코딩 알고리즘도 추천해줍니다.
 
 ### 2) [암호 알고리즘 판별](https://www.dcode.fr/cipher-identifier) 
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
 
 ### 3) Base64 🔥🔥🔥
 기본중의 기본으로 정말 여러가지로 응용해서 나옵니다.
-- [base64 repair](https://base64.guru/tools/repair) - 살다보면 필요하게 되더라구
+- [base64 repair](https://base64.guru/tools/repair)
 - [[ctflearn] Base 2 2 the 6](https://skyepodium.tistory.com/entry/ctflearn-Base-2-2-the-6?category=1029036)
 - [[pico CTF] login](https://skyepodium.tistory.com/entry/pico-CTF-login)
 - [파이썬 구현](https://velog.io/@skyepodium/base64-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B5%AC%ED%98%84)
