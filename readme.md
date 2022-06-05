@@ -68,6 +68,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
 
 ### 7) [모스부호](https://onlineasciitools.com/convert-morse-to-ascii)
+- [[EZCTF] More sense](https://skyepodium.tistory.com/entry/EZCTF-More-sense)
 - [[cflearn] Morse Code](https://skyepodium.tistory.com/entry/cflearn-Morse-Code?category=1029036)
 
 ### 7) [키보드 레이아웃](https://awsm-tools.com/text/keyboard-layout)
