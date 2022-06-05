@@ -59,7 +59,6 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 문자열과 key를 기반으로 암복호화하는 알고리즘 입니다.     
 
 - [[ctflearn] Vigenere Cipher](https://skyepodium.tistory.com/entry/ctflearn-Vigenere-Cipher?category=1029036)
-
 - [[Vigenere Cipher] 비즈네르 암호 구현](https://velog.io/@skyepodium/Vigenere-Cipher-%EB%B9%84%EC%A6%88%EB%84%A4%EB%A5%B4-%EC%95%94%ED%98%B8-%EA%B5%AC%ED%98%84)
 
 ### 6) 진법과 아스키
@@ -88,8 +87,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [[BSidesSF CTF] web-tutorial-1](https://skyepodium.tistory.com/entry/BSidesSF-CTF-web-tutorial-1?category=1028047) - 응용 문제
 
 ### 3) Header
-- [[pico CTF] Who are you?
-](https://skyepodium.tistory.com/entry/pico-CTF-Who-are-you)
+- [[pico CTF] Who are you?](https://skyepodium.tistory.com/entry/pico-CTF-Who-are-you)
 
 ### 4) file traversal
 웹 디렉토리 찾는 문제, 자주 출제됩니다.
@@ -267,6 +265,9 @@ robots.txt는 웹 크롤러가 해당 경로에 접근하지 말라는 의미로
 robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이 아니더라도 여러 CTF 대회에서 먼저 확인하는 부분중 하나 입니다.
 - [[ctflearn] Where Can My Robot Go?](https://skyepodium.tistory.com/entry/ctflearn-Where-Can-My-Robot-Go?category=1029036)
 - [pico CTF - where are the robots](https://play.picoctf.org/practice?category=1&page=1&search=where%20are%20the%20robots)
+
+### 2) [매직 해시](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/hash/magic-hash.md)
+불리언 문맥에서 0으로 평가받을 수 있는 해시들의 모음입니다.
 
 # 10. 기타
 ### 1) | 파이프라인
