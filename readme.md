@@ -225,7 +225,6 @@ NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니�
 jar를 디컴파일 하는 경우 jadx-gui를 사용합니다.
 
 
-
 # 7. pwnable 🔥🔥🔥
 ### 1) [pwntools](https://github.com/Gallopsled/pwntools)
 exploit 파이썬 라이브러리
@@ -237,6 +236,18 @@ exploit 파이썬 라이브러리
 // 32bit - 26 바이트
 \x31\xc0\x50\x68\x6e\x2f\x73\x68\x68\x2f\x2f\x62\x69\x89\xe3\x31\xc9\x31\xd2\xb0\x08\x40\x40\x40\xcd\x80'
 ```
+
+
+
+### 3) Buffer over flow
+포너블의 시작, 버퍼 오버 플로우에서 시작합니다. 정말 중요
+- [0xL4ugh CTF - Leak](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup#3-leak)
+- [meta CTF - Baffling Buffer 0](https://velog.io/@skyepodium/Meta-CTF-Writeup#1-baffling-buffer-0)
+- [meta CTF - Baffling Buffer 1](https://velog.io/@skyepodium/Meta-CTF-Writeup#2-baffling-buffer-1)
+
+### 4) format string
+포맷 스트링 공격 몇번 해보면 감이 옵니다.
+- [0xL4ugh CTF - Trigger Happy](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup#2-trigger-happy)
 
 # 8. programming
 보안과는 관련없이 프로그래밍을 하는 문제가 있습니다. 파이썬으로 진행하면 유리한 점이 많습니다.
