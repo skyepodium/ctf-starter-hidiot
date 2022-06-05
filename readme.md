@@ -125,8 +125,15 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 웹앱의 모든 리소스에서 문자열을 검색할 때 유용합니다.
 - [[pico CTF] Search source](https://skyepodium.tistory.com/entry/pico-CTF-Search-source)
 
-### 10) 특이한 문제
+### 10) xml
+- [[NahamCon_CTF_2022] extravagant](https://skyepodium.tistory.com/entry/NahamConCTF2022-extravagant) - XML external entity attack(xml 외부 엔티티 공격) 문제
+
+### 11) __builtins__
+- [[EZCTF] Save peach](https://skyepodium.tistory.com/entry/EZCTF-Save-peach) - 파이썬 시스템 콜
+
+### 11) 특이한 문제
 - [PDF - latex](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-textex)
+
 
 # 3. php
 php는 웹에 분류되지만, 자주 출제됩니다.
@@ -253,6 +260,10 @@ NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니�
 ### 2) [jadx-gui](https://velog.io/@skyepodium/%EB%A7%A5-jadx-gui-%EC%84%A4%EC%B9%98)
 jar를 디컴파일 하는 경우 jadx-gui를 사용합니다.
 
+### 3) [인텔리제이](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
+.class를 디컴파일 하는데 사용할 수 있습니다.
+- [[b01lers CTF] I Love Java](https://skyepodium.tistory.com/entry/b01lers-CTF-I-Love-Java)
+
 
 # 8. pwnable 🔥🔥🔥
 ### 1) [pwntools](https://github.com/Gallopsled/pwntools)
@@ -283,7 +294,7 @@ exploit 파이썬 라이브러리
 보안과는 관련없이 프로그래밍을 하는 문제가 있습니다. 파이썬으로 진행하면 유리한 점이 많습니다.
 - [[pwnable.kr] coin1](https://velog.io/@skyepodium/pwnable-coin1)
 
-# 10. 팁
+# 10. 기타
 ### 1) robots.txt
 robots.txt는 웹 크롤러가 해당 경로에 접근하지 말라는 의미로 domain/robots.txt에 지정합니다.
 
@@ -294,7 +305,10 @@ robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이
 ### 2) [매직 해시](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/hash/magic-hash.md)
 불리언 문맥에서 0으로 평가받을 수 있는 해시들의 모음입니다.
 
-# 11. 기타
+### 3) [정규 표현식](https://velog.io/@skyepodium/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [[NahamCon_CTF_2022] personnel](https://skyepodium.tistory.com/entry/NahamConCTF2022-personnel)
+
+# 11. 팁
 ### 1) | 파이프라인
 다음과 같이 쓰는 경우가 많습니다. `|` 파이프라인은 앞의 결과를 뒤 함수의 인풋으로 넣습니다.
 ```
