@@ -82,7 +82,8 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [줌 아웃](https://skyepodium.tistory.com/entry/EZCTF-OMG)
 - [hexahue](https://skyepodium.tistory.com/entry/EZCTF-Too-Many-Colors)
 ![cover](./images/hexahue.jpeg)
-
+- [postal code](https://skyepodium.tistory.com/entry/Patriot-CTF-No-Postcode-Envy)
+![cover](./images/postal.png)
 # 2. web
 ### 1) [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) 🔥🔥🔥
 웹이 어떤 프레임워크로 구성되어있는지 확인해주는 크롬 확장 프로그램, 개인적으로 정말 잘쓰고 있어서 추천!!!   
@@ -146,6 +147,9 @@ phar
 ### 3) php filter bypass
 특정 문자열 필터를 바이 패싱 하는 문제
 - [[EZCTF] I made a blog!](https://skyepodium.tistory.com/entry/EZCTF-I-made-a-blog) - base64 사용
+
+### 4) 시스템 콜
+- [shell_exec](https://skyepodium.tistory.com/entry/Patriot-CTF-Spongebob)
 
 # 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
@@ -236,7 +240,7 @@ binwalk --extract --dd=".*" a.png
 
 ### 9) [audacity](https://www.audacityteam.org/)
 음향 프로그램, 스펙트로그램 이외에도, 음악 뒤집기, 속도 조절등을 수행합니다.
-- [[EZCTF] American](https://skyepodium.tistory.com/entry/EZCTF-American) - 스펙트로 그램
+- [[EZCTF] Wavie Wave](https://skyepodium.tistory.com/entry/EZCTF-Wavie-Wave) - 스펙트로 그램
 
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
