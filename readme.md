@@ -170,6 +170,7 @@ INSERT 구문의 value에서는 불가능합니다.
 
 ### 3) 기초
 - [[ctflearn] Basic Injection](https://skyepodium.tistory.com/entry/ctflearn-Basic-Injection?category=1029036)
+- [[EZCTF] Super Secure](https://skyepodium.tistory.com/entry/EZCTF-Super-Secure)
 
 ### 4) blind sql injection 🔥 
 브루트 포스와 함께 사용하며, 내가 생각하는 데이터가 맞는지 맞추면서 진행됩니다.
