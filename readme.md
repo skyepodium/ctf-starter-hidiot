@@ -189,13 +189,15 @@ union을 사용하는 방법으로 유용합니다.
 ### 2) [Wireshark](https://www.wireshark.org/) 🔥🔥🔥
 와이어 샤크 - 패킷 덤프를 분석하는 프로그램
 - [[pico CTF] shark on wire 1](https://skyepodium.tistory.com/entry/pico-CTF-shark-on-wire-1)      
-- [[n00bzCTF] tcpdump](https://skyepodium.tistory.com/entry/n00bzCTF-tcpdump)
+- [[n00bzCTF] tcpdump](https://skyepodium.tistory.com/entry/n00bzCTF-tcpdump) - hex 손실없이 export 하는 방법
 
 필터링 예시
 ```
 frame contains login
 
 http2.header.name=="flag"
+
+frame contains image
 ```
 
 ### 3) fcrack
