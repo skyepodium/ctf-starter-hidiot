@@ -352,7 +352,7 @@ flag 준다고 Discord 들어오라는 경우가 있습니다.
 
 ![cover](./images/discord.png)
 
-### 7) writeup
+### 7) writeup 🔥🔥🔥
 wirteup은 어떻게 문제를 풀었는지 기술하는 과정입니다.
 
 대회가 끝나면 [CTF TIME](https://ctftime.org/event/1660/tasks/) 에 업로드 되기도 하고 googling, youtube로 검색됩니다.
