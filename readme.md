@@ -191,6 +191,13 @@ union을 사용하는 방법으로 유용합니다.
 - [[pico CTF] shark on wire 1](https://skyepodium.tistory.com/entry/pico-CTF-shark-on-wire-1)      
 - [[n00bzCTF] tcpdump](https://skyepodium.tistory.com/entry/n00bzCTF-tcpdump)
 
+필터링 예시
+```
+frame contains login
+
+http2.header.name=="flag"
+```
+
 ### 3) fcrack
 zip 파일을 여는 프로그램
 - [CyberYoddha CTF - Crack the Zip!](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#2-crack-the-zip)
@@ -377,6 +384,8 @@ curl -X GET https://www.google.com --output - > 1.txt
 http range request 예시
 ```
 curl -X GET -H 'Range: bytes=0-10239' https://www.google.com
+
+curl -r 0-10230 https://www.google.com
 ```
 
 # 14. cat
