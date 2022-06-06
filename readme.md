@@ -334,3 +334,10 @@ ifconfig | grep inet
 따라서, https 서버가 필요하면 postbin을 사용할 수 있습니다. 사용법 간단합니다.
 
 [post bin 사이트](https://www.toptal.com/developers/postbin/)
+
+# 12. 리눅스
+### 1) 현재 디렉토리에서 문자열 찾기
+```
+grep -rn "flag"
+```
+- [[HSCTF 9] the-great-directory-egg-hunt](https://skyepodium.tistory.com/entry/HSCTF-9-the-great-directory-egg-hunt)
