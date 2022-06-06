@@ -358,3 +358,16 @@ http range request 예시
 ```
 curl -X GET -H 'Range: bytes=0-10239' https://www.google.com
 ```
+
+# 14. cat
+### 1) 기본 사용
+조회
+```
+cat 1.txt
+```
+
+### 2) 파일 합치기
+바이너리 순서로 합칩니다.
+```
+cat 1.txt 2.txt -> 3.txt
+```
