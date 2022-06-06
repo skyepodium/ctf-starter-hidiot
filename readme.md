@@ -304,8 +304,9 @@ exploit 파이썬 라이브러리
 - [0xL4ugh CTF - Trigger Happy](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup#2-trigger-happy)
 
 # 9. programming
-보안과는 관련없이 프로그래밍을 하는 문제가 있습니다. 파이썬으로 진행하면 유리한 점이 많습니다.
+보안과는 관련없이 프로그래밍을 하는 문제가 있습니다. 파이썬을 사용하면 정말 유리합니다.
 - [[pwnable.kr] coin1](https://velog.io/@skyepodium/pwnable-coin1)
+- [[HSCTF 9] travelling-salesman](https://skyepodium.tistory.com/entry/HSCTF-9-travelling-salesman)
 
 # 10. 기타
 ### 1) robots.txt
