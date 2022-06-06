@@ -342,6 +342,26 @@ grep -rn "flag"
 ```
 - [[HSCTF 9] the-great-directory-egg-hunt](https://skyepodium.tistory.com/entry/HSCTF-9-the-great-directory-egg-hunt)
 
+### 2) file
+파일의 유형을 알려줍니다.
+```
+file 1.txt
+
+1.txt: ASCII text
+```
+
+### 3) base64
+```
+echo SGVsbG8gV29ybGQ= | base64 -d
+
+Hello World
+```
+
+### 4) md5 해시 생성
+```
+md5sum 1.txt
+```
+
 # 13. curl
 ### 1) 기본 사용법
 ```
