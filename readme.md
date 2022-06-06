@@ -133,6 +133,8 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 11) 특이한 문제
 - [PDF - latex](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-textex)
 
+### 12) regex-injection
+- [[NahamCon_CTF_2022] personnel](https://skyepodium.tistory.com/entry/NahamConCTF2022-personnel)
 
 # 3. php
 php는 웹에 분류되지만, 자주 출제됩니다.
