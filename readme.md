@@ -341,3 +341,20 @@ ifconfig | grep inet
 grep -rn "flag"
 ```
 - [[HSCTF 9] the-great-directory-egg-hunt](https://skyepodium.tistory.com/entry/HSCTF-9-the-great-directory-egg-hunt)
+
+# 13. curl
+### 1) 기본 사용법
+```
+curl -X GET https://www.google.com
+```
+
+### 2) 요청 결과 파일로 만들기
+```
+curl -X GET https://www.google.com --output - > 1.txt
+```
+
+### 3) 헤더 추가
+http range request 예시
+```
+curl -X GET -H 'Range: bytes=0-10239' https://www.google.com
+```
