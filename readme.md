@@ -12,7 +12,6 @@ wargame은 자신의 페이스로 진행할 수 있는 환경입니다.
 - [picoCTF](https://picoctf.org/)
 - [ctflearn](https://ctflearn.com/)
 - [ctf-d](http://ctf-d.com/)
-- [HackCTF](https://ctf.j0n9hyun.xyz/)
 
 ### 4) 대회
 매주 대회가 개최되며 일정은 [CTF TIME](https://ctftime.org/)에서 확인할 수 있습니다.
@@ -254,6 +253,8 @@ binwalk --extract --dd=".*" a.png
 
 - [[pico CTF] strings it](https://skyepodium.tistory.com/entry/pico-CTF-strings-it)
 
+- [[GreyCTF] Image Upload](https://skyepodium.tistory.com/entry/GreyCTF-Image-Upload)
+
 ### 9) [audacity](https://www.audacityteam.org/)
 음향 프로그램, 스펙트로그램 이외에도, 음악 뒤집기, 속도 조절등을 수행합니다.
 - [[EZCTF] Wavie Wave](https://skyepodium.tistory.com/entry/EZCTF-Wavie-Wave) - 스펙트로 그램
@@ -350,6 +351,19 @@ flag 준다고 Discord 들어오라는 경우가 있습니다.
 막상 들어가도 어디있는지 못찾는 경우가 있는데, 대부분 사진처럼 최상단에 있습니다.
 
 ![cover](./images/discord.png)
+
+### 7) writeup
+wirteup은 어떻게 문제를 풀었는지 기술하는 과정입니다.
+
+대회가 끝나면 [CTF TIME](https://ctftime.org/event/1660/tasks/) 에 업로드 되기도 하고 googling, youtube로 검색됩니다.
+![cover](./images/writeup.png)
+
+개인적으로 한문제 풀때마다 블로그에 비공개로 writeup 작성하는게 좋은것 같습니다. 정말로, 문제 풀고, 대회 끝나면 잘 기억 안납니다.
+
+나중에 비슷한 문제 만나도 접근하기 힘들어지고 아쉬움만 남습니다.
+
+그래서 그냥 블로그에 비공개로 막쓰는것 추천, 네이버, 티스토리 이런곳에 편하게
+개인적으로 깃허브 프라이빗에 써봤는데 이미지 넣는것이 힘들어서 비추
 
 # 12. 리눅스
 ### 1) 현재 디렉토리에서 문자열 찾기
