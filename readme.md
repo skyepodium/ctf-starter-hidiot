@@ -124,7 +124,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 9) 크롬 브라우저 **Search in all files**
 웹앱의 모든 리소스에서 문자열을 검색할 때 유용합니다.
 - [[pico CTF] Search source](https://skyepodium.tistory.com/entry/pico-CTF-Search-source)
-
+- [[GreyCTF] flappy-js](https://skyepodium.tistory.com/entry/GreyCTF-flappy-js)
 ### 10) xml
 - [[NahamCon_CTF_2022] extravagant](https://skyepodium.tistory.com/entry/NahamConCTF2022-extravagant) - XML external entity attack(xml 외부 엔티티 공격) 문제
 
@@ -345,7 +345,8 @@ ifconfig | grep inet
 ### 6) Discord
 flag 준다고 Discord 들어오라는 경우가 있습니다.
 
-막상 들어가도 어디있는지 못찾는 경우가 있는데 대부분 사진처럼 최상단에 있습니다.
+막상 들어가도 어디있는지 못찾는 경우가 있는데, 대부분 사진처럼 최상단에 있습니다.
+
 ![cover](./images/discord.png)
 
 # 12. 리눅스
