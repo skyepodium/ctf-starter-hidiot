@@ -342,6 +342,12 @@ ifconfig | grep inet
 
 [post bin 사이트](https://www.toptal.com/developers/postbin/)
 
+### 6) Discord
+flag 준다고 Discord 들어오라는 경우가 있습니다.
+
+막상 들어가도 어디있는지 못찾는 경우가 있는데 대부분 사진처럼 최상단에 있습니다.
+![cover](./images/discord.png)
+
 # 12. 리눅스
 ### 1) 현재 디렉토리에서 문자열 찾기
 ```
