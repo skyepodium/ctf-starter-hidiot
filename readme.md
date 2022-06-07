@@ -206,7 +206,11 @@ frame contains image
 zip 파일을 여는 프로그램
 - [CyberYoddha CTF - Crack the Zip!](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#2-crack-the-zip)
 
-
+### 4) jar
+jar 명령어를 통해 손상된 zip 파일을 열 수 있습니다.
+```
+jar xvf a.zip
+```
 
 # 6. stegnography
 ### 1) [foremost](http://foremost.sourceforge.net/) 🔥
