@@ -345,9 +345,7 @@ ifconfig | grep inet
 ### 5) https 서버
 만약 사이트가 https 프로토콜을 사용하고, 로컬의 서버가 http이면 전송이 불가능합니다.(https -> http 요청 불가)
 
-따라서, https 서버가 필요하면 postbin을 사용할 수 있습니다. 사용법 간단합니다.
-
-[post bin 사이트](https://www.toptal.com/developers/postbin/)
+따라서, https 서버가 필요하면 [post bin](https://www.toptal.com/developers/postbin/), [request bin](https://requestbin.com/)을 사용할 수 있습니다. 사용법은 간단합니다.
 
 ### 6) Discord
 flag 준다고 Discord 들어오라는 경우가 있습니다.
