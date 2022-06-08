@@ -284,9 +284,16 @@ jar를 디컴파일 하는 경우 jadx-gui를 사용합니다.
 
 # 8. pwnable 🔥🔥🔥
 ### 1) [pwntools](https://github.com/Gallopsled/pwntools)
-exploit 파이썬 라이브러리
+exploit 파이썬 라이브러리, 거의 기본으로 사용합니다.
+
 파이썬2 기반이어서 가상환경 구축하고 사용합니다.
-다양한 기능이 있고, 효율성이 좋아서 사용합니다.
+```shell
+virtualenv pyvenv2 --python=python2.7
+
+source pyvenv2/bin/activate
+
+pip2 install pwntools
+```
 
 ### 2) 쉘코드
 ```
