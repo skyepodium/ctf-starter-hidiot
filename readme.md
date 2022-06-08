@@ -230,6 +230,7 @@ foremost -t all a.png
 binwalk --extract --dd=".*" a.png
 ```
 - [[pico CTF] Matryoshka doll](https://skyepodium.tistory.com/entry/pico-CTF-Matryoshka-doll)
+- [[pico CTF] MacroHard WeakEdge](https://skyepodium.tistory.com/entry/pico-CTF-MacroHard-WeakEdge)
 
 ### 3) [zsteg](https://github.com/zed-0xff/zsteg)
 이미지에 숨겨진 문자열을 찾아냅니다.
@@ -284,7 +285,7 @@ jar를 디컴파일 하는 경우 jadx-gui를 사용합니다.
 
 # 8. pwnable 🔥🔥🔥
 ### 1) [pwntools](https://github.com/Gallopsled/pwntools)
-exploit 파이썬 라이브러리, 거의 기본으로 사용합니다.
+exploit 파이썬 라이브러리, 기본으로 사용합니다.
 
 파이썬2 기반이어서 가상환경 구축하고 사용합니다.
 ```shell
