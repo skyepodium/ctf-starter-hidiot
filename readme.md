@@ -455,3 +455,10 @@ cat 1.txt
 ```
 cat 1.txt 2.txt -> 3.txt
 ```
+
+# 15. 자바스크립트
+### 1) 부동 소수점
+JS의 모든 숫자는 부동 소수점을 사용하며, 안전한 계산 범위는 `-(2^53 - 1)` ~ `2^53 -1` 입니다.
+
+이 범위를 넘어가는 모든 숫자는 홀수, 짝수 관계없이 2의 배수로 표현됩니다. 
+- [[Square CTF 2021] Huge Primes](https://skyepodium.tistory.com/entry/Square-CTF-2021-Huge-Primes)
