@@ -419,7 +419,6 @@ file 1.png
 ```
 
 
-
 ### 3) base64
 ```
 echo SGVsbG8gV29ybGQ= | base64 -d
@@ -430,6 +429,27 @@ Hello World
 ### 4) md5 해시 생성
 ```
 md5sum 1.txt
+```
+
+### 5) 현재 디렉토리 파일의 개수
+```
+ls -l | grep ^- | wc -l
+```
+
+### 6) 현재 디렉토리 디렉토리의 개수
+```
+ls -l | grep ^d | wc -l​
+```
+
+### 7) tac
+파일 거꾸로 읽기, cat의 반대버전
+```
+tac a.txt
+```
+
+### 8) 디렉토리 알파벳 역순 - reverse
+```
+ls -r
 ```
 
 # 13. curl
