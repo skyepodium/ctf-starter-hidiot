@@ -243,7 +243,7 @@ binwalk --extract --dd=".*" a.png
 이미지에 숨겨진 문자열을 찾아냅니다.
 
 - [[BCACTF 3.0] My New Friend](https://skyepodium.tistory.com/entry/BCACTF-30-My-New-Friend)
-- [[Square CTF 2017] Stegasaurus - Treasure hunt](https://skyepodium.tistory.com/entry/Square-CTF-2017-Stegasaurus-Treasure-hunt)
+- [[Square CTF 2017] Stegasaurus - Treasure hunt](https://skyepodium.tistory.com/entry/Square-CTF-2017-Stegasaurus-Treasure-hunt) - 파이썬 코드
 
 ### 4) stegsolve
 색, 명암을 변경하여 숨겨진 문자열을 찾습니다.
@@ -514,3 +514,7 @@ JS의 모든 숫자는 부동 소수점을 사용하며, 안전한 계산 범위
 ### 2) 유니코드 - 한글필터 백도어
 [한글필터](https://www.compart.com/en/unicode/U+3164)는 유니코드이며 이를 통해 눈에 안보이는 백도어를 만든 문제입니다.
 - [Square CTF 2021 - Korean Space Program (feat: 투명 백도어)](https://velog.io/@skyepodium/Square-CTF-2021-Korean-Space-Program-feat-%ED%88%AC%EB%AA%85-%EB%B0%B1%EB%8F%84%EC%96%B4)
+
+# 16. flask
+### 1) 플라스크 세션 조작
+- [[pico CTF] Most Cookies](https://skyepodium.tistory.com/entry/pico-CTF-Most-Cookies)
