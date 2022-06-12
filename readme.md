@@ -243,6 +243,7 @@ binwalk --extract --dd=".*" a.png
 이미지에 숨겨진 문자열을 찾아냅니다.
 
 - [[BCACTF 3.0] My New Friend](https://skyepodium.tistory.com/entry/BCACTF-30-My-New-Friend)
+- [[Square CTF 2017] Stegasaurus - Treasure hunt](https://skyepodium.tistory.com/entry/Square-CTF-2017-Stegasaurus-Treasure-hunt)
 
 ### 4) stegsolve
 색, 명암을 변경하여 숨겨진 문자열을 찾습니다.
