@@ -452,6 +452,19 @@ tac a.txt
 ls -r
 ```
 
+### 9) 출력 리다이렉션
+```
+curl 요청 결과 html 로 만들기
+curl https://www.google.com > a.html
+
+netcat 요청 결과 파일로 만들기
+nc jupiter.challenges.picoctf.org 4427 > 1.txt
+
+파일 목록 조회 결과 txt로 만들기
+ls -al > ls.txt
+```
+
+
 # 13. curl
 ### 1) 기본 사용법
 ```
