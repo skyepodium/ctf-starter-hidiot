@@ -5,6 +5,7 @@
 
 ### 2) 학습 사이트
 [드림핵](https://dreamhack.io/) - 정말 좋아요
+[tryhackme](https://tryhackme.com/) - 자료 많고, 좋음
 
 ### 3) wargame
 wargame은 자신의 페이스로 진행할 수 있는 환경입니다.      
@@ -518,3 +519,51 @@ JS의 모든 숫자는 부동 소수점을 사용하며, 안전한 계산 범위
 # 16. flask
 ### 1) 플라스크 세션 조작
 - [[pico CTF] Most Cookies](https://skyepodium.tistory.com/entry/pico-CTF-Most-Cookies)
+
+# 17. macro
+문서 파일에 포함되어 있는 매크로 문제
+- [[TryHackMe] Mr. Phisher](https://skyepodium.tistory.com/entry/TryHackMe-Mr-Phisher)
+
+# 18. requets
+그냥 자주쓰는것 적어놓으려고
+### 1) get
+```python
+import requests
+
+r = requests.get("https://www.google.com")
+
+res = {"header": r.headers, "body": r.text}
+
+print('res', res)
+```
+
+### 2) post
+```python
+import requests
+
+data = {'name': 'snickerdoodle'}
+
+res = requests.post("http://mercury.picoctf.net:44693/search", data=data)
+```
+
+### 3) post - form
+```python
+import requests
+
+session = requests.Session()
+r = session.post('http://mercury.picoctf.net:44693/search', data={'name': "snickerdoodle"})
+
+cookie = r.headers["Set-Cookie"].split("; ")[0]
+print('cookie', cookie)
+# cookie session=eyJ2ZXJ5X2F1dGgiOiJzbmlja2VyZG9vZGxlIn0.YqYw8w.fA59ny4Zdysw-0EsKpW12QKzIno
+```
+
+### 4) cookie
+```python
+import requests
+
+headers = {'Content-Type': 'application/json; charset=utf-8'}
+cookies = {'session': 'eyJ2ZXJ5X2F1dGgiOiJzbmlja2VyZG9vZGxlIn0.YqYw8w.fA59ny4Zdysw-0EsKpW12QKzIno'}
+
+res = requests.get("http://mercury.picoctf.net:44693/search", headers=headers, cookies=cookies)
+```
