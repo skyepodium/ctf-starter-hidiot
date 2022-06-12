@@ -137,6 +137,10 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 12) regex-injection
 - [[NahamCon_CTF_2022] personnel](https://skyepodium.tistory.com/entry/NahamConCTF2022-personnel)
 
+### 13) 웹 사이트 스캔
+숨겨진 페이지를 찾는 문제
+- [[Grey Cat The Flag 2022] Too Fast](https://skyepodium.tistory.com/entry/Grey-Cat-The-Flag-2022-Too-Fast)
+
 # 3. php
 php는 웹에 분류되지만, 자주 출제됩니다.
 
@@ -320,6 +324,7 @@ pip2 install pwntools
 보안과는 관련없이 프로그래밍을 하는 문제가 있습니다. 파이썬을 사용하면 정말 유리합니다.
 - [[pwnable.kr] coin1](https://velog.io/@skyepodium/pwnable-coin1)
 - [[HSCTF 9] travelling-salesman](https://skyepodium.tistory.com/entry/HSCTF-9-travelling-salesman)
+- [[HSCTF 9] vending-machine](https://skyepodium.tistory.com/entry/HSCTF-9-vending-machine)
 
 # 10. 기타
 ### 1) robots.txt
