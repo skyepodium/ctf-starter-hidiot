@@ -106,13 +106,14 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 5) 웹쉘
 네트워크로 받은 파라미터를 통해 시스템 콜을 사용하는 취약점입니다.
 - [UMassCTF 2021 - Hermit - Part 1](https://velog.io/@skyepodium/UMassCTF-2021-writeup)
+- [[Square CTF 2017] Password checker](https://skyepodium.tistory.com/entry/Square-CTF-2017-Password-checker)
 
 ### 6) 자바스크립트 재정의
 클라이언트 사이드에서 자바스크립트로 필터링 하고 있다면, 다음 문제처럼 그냥 재정의 해버립시다.
 - [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
 
 ### 7) 커맨드라인 인젝션
-';' 세미콜론으로 커맨드 구분해서 나오는 경우가 있습니다.
+`';'` 세미콜론으로 커맨드 구분해서 나오는 경우가 있습니다.
 - [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
 
 ### 8) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
@@ -462,3 +463,7 @@ JS의 모든 숫자는 부동 소수점을 사용하며, 안전한 계산 범위
 
 이 범위를 넘어가는 모든 숫자는 홀수, 짝수 관계없이 2의 배수로 표현됩니다. 
 - [[Square CTF 2021] Huge Primes](https://skyepodium.tistory.com/entry/Square-CTF-2021-Huge-Primes)
+
+### 2) 유니코드 - 한글필터 백도어
+[한글필터](https://www.compart.com/en/unicode/U+3164)는 유니코드이며 이를 통해 눈에 안보이는 백도어를 만든 문제입니다.
+- [Square CTF 2021 - Korean Space Program (feat: 투명 백도어)](https://velog.io/@skyepodium/Square-CTF-2021-Korean-Space-Program-feat-%ED%88%AC%EB%AA%85-%EB%B0%B1%EB%8F%84%EC%96%B4)
