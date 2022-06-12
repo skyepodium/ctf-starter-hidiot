@@ -452,7 +452,7 @@ tac a.txt
 ls -r
 ```
 
-### 9) 출력 리다이렉션
+### 9) 출력 리다이렉션 (input redirection operator)
 ```
 curl 요청 결과 html 로 만들기
 curl https://www.google.com > a.html
@@ -462,6 +462,12 @@ nc jupiter.challenges.picoctf.org 4427 > 1.txt
 
 파일 목록 조회 결과 txt로 만들기
 ls -al > ls.txt
+```
+
+### 10) 입력 리다이렉션 (output redirection operator)
+입력 결과를 다른 입력으로 이동
+```
+cat < 1.txt
 ```
 
 
