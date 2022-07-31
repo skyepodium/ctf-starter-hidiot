@@ -86,6 +86,11 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ![cover](./images/hexahue.jpeg)
 - [postal code](https://skyepodium.tistory.com/entry/Patriot-CTF-No-Postcode-Envy)
 ![cover](./images/postal.png)
+
+### 10) SHA 256
+해싱 알고리즘으로 복호화는 불가능합니다. 레인보우 테이블에서 검색해야합니다.
+- [[TFC CTF 2022] ARE YOU THE ADMIN?](https://skyepodium.tistory.com/entry/TFC-CTF-2022-ARE-YOU-THE-ADMIN-1)
+
 # 2. web
 ### 1) [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) 🔥🔥🔥
 웹이 어떤 프레임워크로 구성되어있는지 확인해주는 크롬 확장 프로그램, 개인적으로 정말 잘쓰고 있어서 추천!!!   
