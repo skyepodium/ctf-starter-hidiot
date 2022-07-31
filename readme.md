@@ -274,7 +274,10 @@ binwalk --extract --dd=".*" a.png
 
 - [[GreyCTF] Image Upload](https://skyepodium.tistory.com/entry/GreyCTF-Image-Upload)
 
-### 9) [audacity](https://www.audacityteam.org/)
+### 9) Image Steganography
+https://incoherency.co.uk/image-steganography/#unhide
+
+### 10) [audacity](https://www.audacityteam.org/)
 음향 프로그램, 스펙트로그램 이외에도, 음악 뒤집기, 속도 조절등을 수행합니다.
 - [[EZCTF] Wavie Wave](https://skyepodium.tistory.com/entry/EZCTF-Wavie-Wave) - 스펙트로 그램
 
