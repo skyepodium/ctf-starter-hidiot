@@ -275,6 +275,7 @@ binwalk --extract --dd=".*" a.png
 - [[EZCTF] Neo](https://skyepodium.tistory.com/entry/EZCTF-Neo)
 - [CyberYoddha CTF - Steg 2](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#4-steg-2)
 - [syskronCTF - 5. Wednesday](https://velog.io/@skyepodium/syskronCTF-Writeup#5-wednesday)
+- [[H4CKING GAME] - Paint](https://skyepodium.tistory.com/entry/H4CKING-GAME-Paint)
 
 ### 5) exiftool
 파일속에 숨겨진 정보를 찾습니다.
