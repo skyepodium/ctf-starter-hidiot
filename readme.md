@@ -12,7 +12,8 @@ wargame은 자신의 페이스로 진행할 수 있는 환경입니다.
 
 - [picoCTF](https://picoctf.org/)
 - [ctflearn](https://ctflearn.com/)
-- [ctf-d](http://ctf-d.com/)
+- [[DigitalForensic]  with  CTF](http://ctf-d.com/) - 포렌식 자료 많음
+
 
 ### 4) 대회
 매주 대회가 개최되며 일정은 [CTF TIME](https://ctftime.org/)에서 확인할 수 있습니다.
