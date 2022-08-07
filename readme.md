@@ -252,6 +252,7 @@ binwalk --extract --dd=".*" a.png
 ```
 - [[pico CTF] Matryoshka doll](https://skyepodium.tistory.com/entry/pico-CTF-Matryoshka-doll)
 - [[pico CTF] MacroHard WeakEdge](https://skyepodium.tistory.com/entry/pico-CTF-MacroHard-WeakEdge)
+- [[DigitalForensic] with CTF - 호레이쇼가 플래그를 보며…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%ED%98%B8%EB%A0%88%EC%9D%B4%EC%87%BC%EA%B0%80-%ED%94%8C%EB%9E%98%EA%B7%B8%EB%A5%BC-%EB%B3%B4%EB%A9%B0%E2%80%A6)
 
 ### 3) [zsteg](https://github.com/zed-0xff/zsteg)
 이미지에 숨겨진 문자열을 찾아냅니다.
@@ -269,6 +270,7 @@ binwalk --extract --dd=".*" a.png
 파일속에 숨겨진 정보를 찾습니다.
 - [[ctflearn] WOW…. So Meta](https://skyepodium.tistory.com/entry/ctflearn-WOW%E2%80%A6-So-Meta?category=1029036)
 - [[ctflearn] Snowboard](https://skyepodium.tistory.com/entry/ctflearn-Snowboard)
+- [[DigitalForensic] with CTF - Wota](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Wota) 🔥
 
 ### 6) [스테가노그라피 온라인](https://stylesuxx.github.io/steganography/)
 숨겨진 문자열을 찾습니다.
@@ -294,9 +296,9 @@ https://incoherency.co.uk/image-steganography/#unhide
 이미지 파일에 필요없는 문자열이 들어간 경우 cyberchef의 find/replace 기능을 사용할 수 있습니다.
 - [[TFC CTF 2022] BBBBBBBBBB](https://skyepodium.tistory.com/entry/TFC-CTF-2022-BBBBBBBBBB)
 
-### 11) [audacity](https://www.audacityteam.org/)
+### 11) [audacity](https://www.audacityteam.org/) 🔥🔥🔥
 음향 프로그램, 스펙트로그램 이외에도, 음악 뒤집기, 속도 조절등을 수행합니다.
-- [[DigitalForensic] with CTF - Three Thieves Threw Trumpets Through Trees](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Three-Thieves-Threw-Trumpets-Through-Trees) - 뒤집기, 속도 느리게 하기
+- [[DigitalForensic] with CTF - Three Thieves Threw Trumpets Through Trees](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Three-Thieves-Threw-Trumpets-Through-Trees) - 뒤집기, 속도 느리게 하기 🔥
 
 - [[EZCTF] Wavie Wave](https://skyepodium.tistory.com/entry/EZCTF-Wavie-Wave) - 스펙트로 그램
 
