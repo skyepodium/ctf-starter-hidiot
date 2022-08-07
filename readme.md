@@ -45,7 +45,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
 - [[EZCTF] No kidding](https://skyepodium.tistory.com/entry/EZCTF-No-kidding)
 
-- [[TF CTF 2022] BASIC](https://skyepodium.tistory.com/entry/TF-CTF-2022-BASIC)
+- [[TFC CTF 2022] BASIC](https://skyepodium.tistory.com/entry/TFC-CTF-2022-BASIC)
 
 ### 3) Base64 🔥🔥🔥
 기본중의 기본으로 정말 여러가지로 응용해서 나옵니다.
