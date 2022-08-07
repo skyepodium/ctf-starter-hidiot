@@ -296,6 +296,8 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 ### 11) [audacity](https://www.audacityteam.org/)
 음향 프로그램, 스펙트로그램 이외에도, 음악 뒤집기, 속도 조절등을 수행합니다.
+- [[DigitalForensic] with CTF - Three Thieves Threw Trumpets Through Trees](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Three-Thieves-Threw-Trumpets-Through-Trees) - 뒤집기, 속도 느리게 하기
+
 - [[EZCTF] Wavie Wave](https://skyepodium.tistory.com/entry/EZCTF-Wavie-Wave) - 스펙트로 그램
 
 # 7 . reversing
