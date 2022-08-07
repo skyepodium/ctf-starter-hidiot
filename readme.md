@@ -94,8 +94,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ![cover](./images/hexahue.jpeg)
 - [postal code]
     - [[Patriot CTF] No Postcode Envy](https://skyepodium.tistory.com/entry/Patriot-CTF-No-Postcode-Envy)
-    - [[H4CKING GAME] with CTF - Hello,Postman
-](https://skyepodium.tistory.com/entry/H4CKING-GAME-with-CTF-HelloPostman)
+    - [[H4CKING GAME] - Hello,Postman](https://skyepodium.tistory.com/entry/H4CKING-GAME-HelloPostman)
 
 ![cover](./images/postal.png)
 - [spam mimic](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%9B%90%EB%9E%98-%EC%9D%98%EB%AF%B8%EA%B0%80-%EC%97%86%EB%8A%94-%EA%B2%83%EB%93%A4%EB%8F%84%E2%80%A6)
