@@ -302,6 +302,13 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 - [[EZCTF] Wavie Wave](https://skyepodium.tistory.com/entry/EZCTF-Wavie-Wave) - 스펙트로 그램
 
+### 12) 파일 시그니처
+png, jpeg 파일 마다 고유한 시그니처를 가지고 있습니다.
+
+보통 파일을 복구하는 문제가 나옵니다.
+
+- [[DigitalForensic] with CTF - 거래 조건 알고 있잖아요?](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EA%B1%B0%EB%9E%98-%EC%A1%B0%EA%B1%B4-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%9E%96%EC%95%84%EC%9A%94) - jpg
+
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
 NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니다.
