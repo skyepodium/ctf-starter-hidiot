@@ -319,7 +319,7 @@ png, jpeg 파일 마다 고유한 시그니처를 가지고 있습니다.
 
 - jpg
     - [[DigitalForensic] with CTF - 거래 조건 알고 있잖아요?](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EA%B1%B0%EB%9E%98-%EC%A1%B0%EA%B1%B4-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%9E%96%EC%95%84%EC%9A%94)
-    
+
     - [[H4CKING GAME] - cat](https://skyepodium.tistory.com/entry/H4CKING-GAME-cat)
 
 # 7 . reversing
@@ -360,13 +360,14 @@ pip2 install pwntools
 - [CyberYoddha CTF - Password 1](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#1-password-1)
 
 
-### 3) Buffer over flow
+### 3) Buffer over flow 🔥
 포너블의 시작, 버퍼 오버 플로우에서 시작합니다. 정말 중요
+- [[H4CKING GAME] - Qualification](https://skyepodium.tistory.com/entry/H4CKING-GAME-Qualification)
 - [0xL4ugh CTF - Leak](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup#3-leak)
 - [meta CTF - Baffling Buffer 0](https://velog.io/@skyepodium/Meta-CTF-Writeup#1-baffling-buffer-0)
 - [meta CTF - Baffling Buffer 1](https://velog.io/@skyepodium/Meta-CTF-Writeup#2-baffling-buffer-1)
 
-### 4) format string
+### 4) format string 🔥
 포맷 스트링 공격 몇번 해보면 감이 옵니다.
 - [0xL4ugh CTF - Trigger Happy](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup#2-trigger-happy)
 
