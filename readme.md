@@ -276,12 +276,14 @@ binwalk --extract --dd=".*" a.png
 - [[EZCTF] Bernie](https://skyepodium.tistory.com/entry/EZCTF-Bernie)
 
 ### 8) strings
-바이너리 파일을 문자열을 추출하는 함수
+바이너리 파일에서 문자열을 추출하는 함수
 - [[ctflearn] Forensics 101](https://skyepodium.tistory.com/entry/ctflearn-Forensics-101?category=1029036)
 
 - [[pico CTF] strings it](https://skyepodium.tistory.com/entry/pico-CTF-strings-it)
 
 - [[GreyCTF] Image Upload](https://skyepodium.tistory.com/entry/GreyCTF-Image-Upload)
+
+- [[DigitalForensic] with CTF - Graphics Interchange Format](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Graphics-Interchange-Format)
 
 ### 9) Image Steganography
 https://incoherency.co.uk/image-steganography/#unhide
