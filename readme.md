@@ -286,7 +286,11 @@ binwalk --extract --dd=".*" a.png
 ### 9) Image Steganography
 https://incoherency.co.uk/image-steganography/#unhide
 
-### 10) [audacity](https://www.audacityteam.org/)
+### 10) [find/replace](https://gchq.github.io/CyberChef/#recipe=Find_/_Replace(%7B'option':'Regex','string':''%7D,'',true,false,true,false))
+이미지 파일에 필요없는 문자열이 들어간 경우 cyberchef의 find/replace 기능을 사용할 수 있습니다.
+- [[TFC CTF 2022] BBBBBBBBBB](https://skyepodium.tistory.com/entry/TFC-CTF-2022-BBBBBBBBBB)
+
+### 11) [audacity](https://www.audacityteam.org/)
 음향 프로그램, 스펙트로그램 이외에도, 음악 뒤집기, 속도 조절등을 수행합니다.
 - [[EZCTF] Wavie Wave](https://skyepodium.tistory.com/entry/EZCTF-Wavie-Wave) - 스펙트로 그램
 
