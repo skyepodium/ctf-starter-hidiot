@@ -323,6 +323,10 @@ png, jpeg 파일 마다 고유한 시그니처를 가지고 있습니다.
 
     - [[H4CKING GAME] - cat](https://skyepodium.tistory.com/entry/H4CKING-GAME-cat)
 
+### 13) QR 코드
+QR 코드 복원 문제가 종종 나옵니다.
+- [[DigitalForensic] with CTF - QR코드를 발견했지만…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-QR%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B0%9C%EA%B2%AC%ED%96%88%EC%A7%80%EB%A7%8C%E2%80%A6)
+
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
 NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니다.
