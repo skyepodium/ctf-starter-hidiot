@@ -276,6 +276,7 @@ binwalk --extract --dd=".*" a.png
 - [CyberYoddha CTF - Steg 2](https://velog.io/@skyepodium/CyberYoddha-CTF-Writeup#4-steg-2)
 - [syskronCTF - 5. Wednesday](https://velog.io/@skyepodium/syskronCTF-Writeup#5-wednesday)
 - [[H4CKING GAME] - Paint](https://skyepodium.tistory.com/entry/H4CKING-GAME-Paint)
+- [[DigitalForensic] with CTF - 플래그를 얻어라!](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%ED%94%8C%EB%9E%98%EA%B7%B8%EB%A5%BC-%EC%96%BB%EC%96%B4%EB%9D%BC)
 
 ### 5) exiftool
 파일속에 숨겨진 정보를 찾습니다.
