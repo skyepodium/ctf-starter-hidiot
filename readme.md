@@ -300,6 +300,9 @@ binwalk --extract --dd=".*" a.png
 
 - [[DigitalForensic] with CTF - Graphics Interchange Format](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Graphics-Interchange-Format)
 
+- [[DigitalForensic] with CTF - 저는 플래그를 이 파일에..](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%A0%80%EB%8A%94-%ED%94%8C%EB%9E%98%EA%B7%B8%EB%A5%BC-%EC%9D%B4-%ED%8C%8C%EC%9D%BC%EC%97%90)
+
+
 ### 9) Image Steganography
 https://incoherency.co.uk/image-steganography/#unhide
 
@@ -322,6 +325,9 @@ png, jpeg 파일 마다 고유한 시그니처를 가지고 있습니다.
     - [[DigitalForensic] with CTF - 거래 조건 알고 있잖아요?](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EA%B1%B0%EB%9E%98-%EC%A1%B0%EA%B1%B4-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%9E%96%EC%95%84%EC%9A%94)
 
     - [[H4CKING GAME] - cat](https://skyepodium.tistory.com/entry/H4CKING-GAME-cat)
+
+- gz
+    - [[DigitalForensic] with CTF - 우리는 이 파일에 플래그를...](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%9D%B4-%ED%8C%8C%EC%9D%BC%EC%97%90-%ED%94%8C%EB%9E%98%EA%B7%B8%EB%A5%BC) 
 
 ### 13) QR 코드
 QR 코드 복원 문제가 종종 나옵니다.
