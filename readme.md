@@ -323,6 +323,8 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 - [[EZCTF] Wavie Wave](https://skyepodium.tistory.com/entry/EZCTF-Wavie-Wave) - 스펙트로 그램
 
+- [[DigitalForensic] with CTF - Listen carefully!!](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Listen-carefully) - 스펙트로 그램, 속도 느리게 하기
+
 ### 12) 파일 시그니처
 png, jpeg 파일 마다 고유한 시그니처를 가지고 있습니다.
 
