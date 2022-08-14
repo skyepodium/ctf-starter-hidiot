@@ -263,6 +263,7 @@ binwalk --extract --dd=".*" a.png
 - [[pico CTF] Matryoshka doll](https://skyepodium.tistory.com/entry/pico-CTF-Matryoshka-doll)
 - [[pico CTF] MacroHard WeakEdge](https://skyepodium.tistory.com/entry/pico-CTF-MacroHard-WeakEdge)
 - [[DigitalForensic] with CTF - 호레이쇼가 플래그를 보며…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%ED%98%B8%EB%A0%88%EC%9D%B4%EC%87%BC%EA%B0%80-%ED%94%8C%EB%9E%98%EA%B7%B8%EB%A5%BC-%EB%B3%B4%EB%A9%B0%E2%80%A6)
+- [[DigitalForensic] with CTF - DOS 모드에서는…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-DOS-%EB%AA%A8%EB%93%9C%EC%97%90%EC%84%9C%EB%8A%94%E2%80%A6)
 
 ### 3) [zsteg](https://github.com/zed-0xff/zsteg)
 이미지에 숨겨진 문자열을 찾아냅니다.
