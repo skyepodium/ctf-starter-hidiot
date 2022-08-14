@@ -89,6 +89,11 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 ### 8) 특이한 알고리즘
 쉬운대회에서는 **crypto** 영역에 정말 특이한 알고리즘을 가져옵니다.
+
+사실 이런 문제들은 점수는 낮은데 시간은 많이 소모되어서 나중에 하는것이 건강에 이롭습니다.
+
+개인적으로 정말 극혐합니다.
+
 - [Multi-tap Phone](https://skyepodium.tistory.com/entry/EZCTF-No-kidding)
 
 - [줌 아웃](https://skyepodium.tistory.com/entry/EZCTF-OMG)
@@ -101,7 +106,14 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
     - [[H4CKING GAME] - Hello,Postman](https://skyepodium.tistory.com/entry/H4CKING-GAME-HelloPostman)
 
 ![cover](./images/postal.png)
-- [spam mimic](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%9B%90%EB%9E%98-%EC%9D%98%EB%AF%B8%EA%B0%80-%EC%97%86%EB%8A%94-%EA%B2%83%EB%93%A4%EB%8F%84%E2%80%A6)
+- spam mimic
+    스팸처럼 보이기 만든 암호문입니다.
+    - [[DigitalForensic] with CTF - 원래 의미가 없는 것들도…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%9B%90%EB%9E%98-%EC%9D%98%EB%AF%B8%EA%B0%80-%EC%97%86%EB%8A%94-%EA%B2%83%EB%93%A4%EB%8F%84%E2%80%A6)
+
+- birds on wire cipher
+전깃줄 위의 새의 모습으로 암호문을 만드는 알고리즙 입니다.
+![cover](./images/birdsonwire.jpeg)
+    - [[shell ctf 2022] Tweeeet](https://skyepodium.tistory.com/entry/shell-ctf-2022-Tweeeet)
 
 ### 10) SHA 256
 해싱 알고리즘으로 복호화는 불가능합니다. 레인보우 테이블에서 검색해야합니다.
@@ -182,6 +194,14 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 15) 페이로드 조작
 서버에 조작된 값을 보냅니다.
 - [[corCTF 2022] jsonquiz](https://skyepodium.tistory.com/entry/corCTF-2022-jsonquiz)
+
+
+### 16) 노가다 문제
+개인적으로 제일 극혐하는 문제 종류중 하나입니다.
+
+딱히 목적도, 의미도 없고, 출제자의 의도를 추리해야합니다.
+
+- [[shell ctf 2022] Colour Cookie](https://skyepodium.tistory.com/entry/shell-ctf-2022-Colour-Cookie)
 
 # 3. php
 php는 웹에 분류되지만, 자주 출제됩니다.
