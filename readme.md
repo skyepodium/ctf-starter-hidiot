@@ -119,9 +119,13 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 
 ### 2) [크로스 사이트 스크립팅 - xss](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/web/xss.md)
-- [BYU CTF 2022 - Social Media](https://skyepodium.tistory.com/entry/BYU-CTF-2022-Social-Media-%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85?category=1028047) - 정석적인 쿠키 탈취 문제
+- store XSS
+    - [BYU CTF 2022 - Social Media](https://skyepodium.tistory.com/entry/BYU-CTF-2022-Social-Media-%ED%81%AC%EB%A1%9C%EC%8A%A4%EC%82%AC%EC%9D%B4%ED%8A%B8-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8C%85?category=1028047) - 정석적인 쿠키 탈취 문제
 
-- [[BSidesSF CTF] web-tutorial-1](https://skyepodium.tistory.com/entry/BSidesSF-CTF-web-tutorial-1?category=1028047) - 응용 문제
+    - [[BSidesSF CTF] web-tutorial-1](https://skyepodium.tistory.com/entry/BSidesSF-CTF-web-tutorial-1?category=1028047) - 응용 문제
+
+- reflection XSS
+    - [[shell ctf 2022] Choosy](https://skyepodium.tistory.com/entry/shell-ctf-2022-Choosy)
 
 ### 3) Header
 - [[pico CTF] Who are you?](https://skyepodium.tistory.com/entry/pico-CTF-Who-are-you)
