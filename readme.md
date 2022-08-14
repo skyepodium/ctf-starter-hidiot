@@ -94,7 +94,11 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 개인적으로 정말 극혐합니다.
 
-- [Multi-tap Phone](https://skyepodium.tistory.com/entry/EZCTF-No-kidding)
+- [Multi-tap Phone](https://en.wikipedia.org/wiki/Multi-tap)  
+구형 휴대폰 숫자 패드 기반의 암호문을 의미합니다.
+    - [[EZCTF] No kidding](https://skyepodium.tistory.com/entry/EZCTF-No-kidding)
+
+    - [[shell ctf 2022] Tring Tring....](https://skyepodium.tistory.com/entry/shell-ctf-2022-Tring-Tring)
 
 - [줌 아웃](https://skyepodium.tistory.com/entry/EZCTF-OMG)
 
