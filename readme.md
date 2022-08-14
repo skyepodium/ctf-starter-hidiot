@@ -361,15 +361,19 @@ QR 코드 복원 문제가 종종 나옵니다.
 
 ### 16. pillow
 pillow는 파이선 기반 이미지 처리 도구입니다.
+사진에 어떤 메시지를 심는 경우 뽑아낼 수 있습니다.
 
-사진에 어떤 메시지를 심는 경우 다음과 같이 뽑아낼 수 있습니다.
-- [[DigitalForensic] with CTF - 브리타니아의 원더랜드…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EB%B8%8C%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%EC%9D%98-%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C%E2%80%A6) - pillow, 2진법 정석 문제
+- 이진수 
+    - [[DigitalForensic] with CTF - 브리타니아의 원더랜드…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EB%B8%8C%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%EC%9D%98-%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C%E2%80%A6) - pillow, 2진법 정석 문제
 
-- [[DigitalForensic] with CTF - google](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-google) - RGBA 문제
+    - [[DigitalForensic] with CTF - google](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-google) - RGBA 문제
 
-- [[DigitalForensic] with CTF - Emma Watson](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Emma-Watson) - stegsolve + pillow
+    - [[DigitalForensic] with CTF - Emma Watson](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Emma-Watson) - stegsolve + pillow
 
-- [[DigitalForensic] with CTF - flagception](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-flagception) - stegsolve + pillow
+    - [[DigitalForensic] with CTF - flagception](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-flagception) - stegsolve + pillow
+
+- RGB 아스키
+    - [[DigitalForensic] with CTF - 와우! 저는 이 이미지에…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%99%80%EC%9A%B0-%EC%A0%80%EB%8A%94-%EC%9D%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%E2%80%A6) - pillow, rgb, ascii
 
 ### 17. gif
 gif 분해 문제
