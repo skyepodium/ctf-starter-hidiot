@@ -132,9 +132,11 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 클라이언트 사이드에서 자바스크립트로 필터링 하고 있다면, 다음 문제처럼 그냥 재정의 해버립시다.
 - [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
 
-### 7) 커맨드라인 인젝션
+### 7) command injection
 `';'` 세미콜론으로 커맨드 구분해서 나오는 경우가 있습니다.
 - [[SECCON Beginners CTF 2022] Util](https://skyepodium.tistory.com/entry/SECCON-Beginners-CTF-2022-Util)
+
+- [[corCTF 2022] msfrog-generator](https://skyepodium.tistory.com/entry/corCTF-2022-msfrog-generator)
 
 ### 8) [자바스크립트 난독화 예쁘게](https://beautifier.io/)
 난독화 된것을 원래대로는 못돌리고, 예쁘게 포맷팅해서 분석해야합니다.
