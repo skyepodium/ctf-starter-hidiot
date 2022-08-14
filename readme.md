@@ -277,12 +277,14 @@ binwalk --extract --dd=".*" a.png
 - [syskronCTF - 5. Wednesday](https://velog.io/@skyepodium/syskronCTF-Writeup#5-wednesday)
 - [[H4CKING GAME] - Paint](https://skyepodium.tistory.com/entry/H4CKING-GAME-Paint)
 - [[DigitalForensic] with CTF - 플래그를 얻어라!](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%ED%94%8C%EB%9E%98%EA%B7%B8%EB%A5%BC-%EC%96%BB%EC%96%B4%EB%9D%BC)
+- [[DigitalForensic] with CTF - Find Key(moon)](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Find-Keymoon)
 
 ### 5) exiftool
 파일속에 숨겨진 정보를 찾습니다.
 - [[ctflearn] WOW…. So Meta](https://skyepodium.tistory.com/entry/ctflearn-WOW%E2%80%A6-So-Meta?category=1029036)
 - [[ctflearn] Snowboard](https://skyepodium.tistory.com/entry/ctflearn-Snowboard)
 - [[DigitalForensic] with CTF - Wota](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Wota) 🔥
+- [[DigitalForensic] with CTF - 내 친구는 이것이 특별한...](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EB%82%B4-%EC%B9%9C%EA%B5%AC%EB%8A%94-%EC%9D%B4%EA%B2%83%EC%9D%B4-%ED%8A%B9%EB%B3%84%ED%95%9C)
 
 ### 6) [스테가노그라피 온라인](https://stylesuxx.github.io/steganography/)
 숨겨진 문자열을 찾습니다.
@@ -345,6 +347,17 @@ QR 코드 복원 문제가 종종 나옵니다.
 - foremost
 - strings
 - PngCheck
+
+### 15 [StegOnline](https://stegonline.georgeom.net/upload)
+작아서 잘 안보이는 경우에 사용합니다.
+- [[DigitalForensic] with CTF - 제 친구의 개가 바다에서…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%A0%9C-%EC%B9%9C%EA%B5%AC%EC%9D%98-%EA%B0%9C%EA%B0%80-%EB%B0%94%EB%8B%A4%EC%97%90%EC%84%9C%E2%80%A6)
+
+
+### 16. pillow
+pillow는 파이선 기반 이미지 처리 도구입니다.
+
+사진에 어떤 메시지를 심는 경우 다음과 같이 뽑아낼 수 있습니다.
+- [[DigitalForensic] with CTF - 브리타니아의 원더랜드…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EB%B8%8C%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%EC%9D%98-%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C%E2%80%A6)
 
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
