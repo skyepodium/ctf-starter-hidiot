@@ -375,6 +375,7 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
 gif 분해 문제
 - [[DigitalForensic] with CTF - 저는 이미지에서 어떤 것을…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%A0%80%EB%8A%94-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%A4-%EA%B2%83%EC%9D%84%E2%80%A6)
 
+
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
 NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니다.
@@ -521,6 +522,8 @@ file 1.png
 
 1.txt: ASCII text
 ```
+
+- [[DigitalForensic] with CTF - e_e](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-ee)
 
 
 ### 3) base64
