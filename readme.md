@@ -363,7 +363,9 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
 사진에 어떤 메시지를 심는 경우 다음과 같이 뽑아낼 수 있습니다.
 - [[DigitalForensic] with CTF - 브리타니아의 원더랜드…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EB%B8%8C%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%EC%9D%98-%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C%E2%80%A6) - pillow, 2진법 정석 문제
 
-- [[DigitalForensic] with CTF - google](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-google) - RGBA 문제
+- [[DigitalForensic] with CTF - google](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-google) - RGBA 문제
+
+- [[DigitalForensic] with CTF - Emma Watson](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Emma-Watson) - stegsolve + pillow
 
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
