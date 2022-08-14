@@ -167,6 +167,10 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 브라우저와 서버 요청 사이에 프록시 서버를 두어서, 요청 및 응답을 변형시키는데 사용합니다.
 - [[TFC CTF 2022] ARE YOU THE ADMIN?](https://skyepodium.tistory.com/entry/TFC-CTF-2022-ARE-YOU-THE-ADMIN)
 
+### 15) 페이로드 조작
+서버에 조작된 값을 보냅니다.
+- [[corCTF 2022] jsonquiz](https://skyepodium.tistory.com/entry/corCTF-2022-jsonquiz)
+
 # 3. php
 php는 웹에 분류되지만, 자주 출제됩니다.
 
