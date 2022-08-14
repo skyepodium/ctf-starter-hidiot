@@ -77,6 +77,8 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [[ctflearn] Character Encoding](https://skyepodium.tistory.com/entry/ctflearn-Character-Encoding?category=1029036)     
 - [[ctflearn] Reverse Polarity](https://skyepodium.tistory.com/entry/ctflearn-Reverse-Polarity?category=1029036)
 - [[EZCTF] Qweauty and the Beast](https://skyepodium.tistory.com/entry/EZCTF-Qweauty-and-the-Beast) - 8진법 + 키보드
+- [[SuNiNaTaS] challenge 18](https://skyepodium.tistory.com/entry/SuNiNaTaS-challenge-18)
+
 ### 7) [모스부호](https://onlineasciitools.com/convert-morse-to-ascii)
 - [[EZCTF] More sense](https://skyepodium.tistory.com/entry/EZCTF-More-sense)
 - [[cflearn] Morse Code](https://skyepodium.tistory.com/entry/cflearn-Morse-Code?category=1029036)
@@ -104,6 +106,10 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 10) SHA 256
 해싱 알고리즘으로 복호화는 불가능합니다. 레인보우 테이블에서 검색해야합니다.
 - [[TFC CTF 2022] ARE YOU THE ADMIN?](https://skyepodium.tistory.com/entry/TFC-CTF-2022-ARE-YOU-THE-ADMIN-1)
+
+### 11) ROT13
+카이사르 암호
+- [[SuNiNaTaS] challenge 19](https://skyepodium.tistory.com/entry/SuNiNaTaS-challenge-19)
 
 # 2. web
 ### 1) [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) 🔥🔥🔥
