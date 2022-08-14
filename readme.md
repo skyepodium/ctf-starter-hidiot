@@ -288,10 +288,14 @@ binwalk --extract --dd=".*" a.png
 
 ### 6) [스테가노그라피 온라인](https://stylesuxx.github.io/steganography/)
 숨겨진 문자열을 찾습니다.
+
 - [[EZCTF] Nobody's perfect](https://skyepodium.tistory.com/entry/EZCTF-Nobodys-perfect)
 
 ### 7) [스테그하이드](https://futureboy.us/stegano/decinput.html) 🔥
+비빌먼호 넣고 메시지를 숨기는 경우가 있습니다.
+
 - [[EZCTF] Bernie](https://skyepodium.tistory.com/entry/EZCTF-Bernie)
+- [[shell ctf] Hidden File](https://skyepodium.tistory.com/entry/shell-ctf-Hidden-File)
 
 ### 8) strings
 바이너리 파일에서 문자열을 추출하는 함수
