@@ -647,7 +647,15 @@ grep -rn "flag"
 
 - [[pico CTF] Big Zip](https://skyepodium.tistory.com/entry/pico-CTF-Big-Zip)
 
-### 2) file
+### 2) 파일 찾기    
+2> /dev/null 은 에러메시지를 안보이게 합니다.
+```
+find . -name '*.txt' 2> /dev/null
+```
+- [[pico CTF] First Find](https://skyepodium.tistory.com/entry/pico-CTF-First-Find)
+
+
+### 3) file
 파일의 유형을 알려줍니다.
 
 file은 매직 해시를 보고 판단하기 때문에 확장자가 잘못 작성된 경우에 원래의 파일을 추측하는데 사용할 수 있습니다.
@@ -661,40 +669,40 @@ file 1.png
 
 - [[ctflearn] 07601](https://skyepodium.tistory.com/entry/ctflearn-07601)
 
-### 3) base64
+### 4) base64
 ```
 echo SGVsbG8gV29ybGQ= | base64 -d
 
 Hello World
 ```
 
-### 4) md5 해시 생성
+### 5) md5 해시 생성
 ```
 md5sum 1.txt
 ```
 
-### 5) 현재 디렉토리 파일의 개수
+### 6) 현재 디렉토리 파일의 개수
 ```
 ls -l | grep ^- | wc -l
 ```
 
-### 6) 현재 디렉토리 디렉토리의 개수
+### 7) 현재 디렉토리 디렉토리의 개수
 ```
 ls -l | grep ^d | wc -l​
 ```
 
-### 7) tac
+### 8) tac
 파일 거꾸로 읽기, cat의 반대버전
 ```
 tac a.txt
 ```
 
-### 8) 디렉토리 알파벳 역순 - reverse
+### 9) 디렉토리 알파벳 역순 - reverse
 ```
 ls -r
 ```
 
-### 9) 출력 리다이렉션 (input redirection operator)
+### 10) 출력 리다이렉션 (input redirection operator)
 ```
 curl 요청 결과 html 로 만들기
 curl https://www.google.com > a.html
@@ -706,7 +714,7 @@ nc jupiter.challenges.picoctf.org 4427 > 1.txt
 ls -al > ls.txt
 ```
 
-### 10) 입력 리다이렉션 (output redirection operator)
+### 11) 입력 리다이렉션 (output redirection operator)
 입력 결과를 다른 입력으로 이동
 ```
 cat < 1.txt
