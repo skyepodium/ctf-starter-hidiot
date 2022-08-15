@@ -80,6 +80,8 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [[EZCTF] Qweauty and the Beast](https://skyepodium.tistory.com/entry/EZCTF-Qweauty-and-the-Beast) - 8진법 + 키보드
 - [[SuNiNaTaS] challenge 18](https://skyepodium.tistory.com/entry/SuNiNaTaS-challenge-18)
 
+- [0xL4ugh CTF Me & You!](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup#5-me--you) - 8진법
+
 - white space      
     난해한 언어 문제 아님, 공백인데 아스키코드가 달라서, 2진수로 복호화하는 문제
     - [[ctflearn] Blank Page](https://skyepodium.tistory.com/entry/ctflearn-Blank-Page) - 공백으로 이루어진 파일
@@ -132,9 +134,9 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ![cover](./images/wakanda.png)
     - [[shell ctf 2022] World's Greatest Detective](https://skyepodium.tistory.com/entry/shell-ctf-2022-Worlds-Greatest-Detective)
 
-- Braille cipher
+- Braille cipher    
+![cover](./images/braille.png)       
     - [0xL4ugh-CTF - Cylops](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup#4-cylops)
-
     - [[shell ctf 2022] Feel me](https://skyepodium.tistory.com/entry/shell-ctf-2022-Feel-me)
 
 ### 10) 난해한 프로그래밍 언어 - Esolang
@@ -161,7 +163,10 @@ c ^ b == a
 
 - [[DigitalForensic] with CTF - ROX](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-ROX)
 
+- [[shell ctf 2022] Secret Document](https://skyepodium.tistory.com/entry/shell-ctf-2022-Secret-Document) - XOR로 PNG 파일 만드는 문제
+
 - [[shell ctf 2022] OX9OR2](https://skyepodium.tistory.com/entry/shell-ctf-2022-OX9OR2) - XOR 유추 문제
+
 
 # 2. web
 ### 1) [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) 🔥🔥🔥
