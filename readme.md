@@ -423,6 +423,8 @@ https://incoherency.co.uk/image-steganography/#unhide
 
 - [[DigitalForensic] with CTF - Listen carefully!!](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Listen-carefully) - 스펙트로 그램, 속도 느리게 하기
 
+- [[shell ctf 2022] Alien Communication](https://skyepodium.tistory.com/entry/shell-ctf-2022-Alien-Communication)
+
 ### 12) 파일 시그니처
 png, jpeg 파일 마다 고유한 시그니처를 가지고 있습니다.
 
