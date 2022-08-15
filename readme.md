@@ -80,7 +80,11 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [[EZCTF] Qweauty and the Beast](https://skyepodium.tistory.com/entry/EZCTF-Qweauty-and-the-Beast) - 8진법 + 키보드
 - [[SuNiNaTaS] challenge 18](https://skyepodium.tistory.com/entry/SuNiNaTaS-challenge-18)
 
-- [[ctflearn] Blank Page](https://skyepodium.tistory.com/entry/ctflearn-Blank-Page)
+- white space      
+    난해한 언어 문제 아님, 공백인데 아스키코드가 달라서, 2진수로 복호화하는 문제
+    - [[ctflearn] Blank Page](https://skyepodium.tistory.com/entry/ctflearn-Blank-Page) - 공백으로 이루어진 파일
+
+    - [[pico CTF] WhitePages](https://skyepodium.tistory.com/entry/pico-CTF-WhitePages)
 
 ### 7) [모스부호](https://onlineasciitools.com/convert-morse-to-ascii)
 - [[EZCTF] More sense](https://skyepodium.tistory.com/entry/EZCTF-More-sense)
@@ -460,8 +464,7 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
 
     - [[DigitalForensic] with CTF - flagception](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-flagception) - stegsolve + pillow
 
-    - [[H4CKING GAME] - CODE
-](https://skyepodium.tistory.com/entry/H4CKING-GAME-CODE)
+    - [[H4CKING GAME] - CODE](https://skyepodium.tistory.com/entry/H4CKING-GAME-CODE)
 
 - RGB
     - [[DigitalForensic] with CTF - 와우! 저는 이 이미지에…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%99%80%EC%9A%B0-%EC%A0%80%EB%8A%94-%EC%9D%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%E2%80%A6) - rgb값을 아스키코드로 변환
