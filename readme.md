@@ -119,11 +119,17 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ![cover](./images/birdsonwire.jpeg)
     - [[shell ctf 2022] Tweeeet](https://skyepodium.tistory.com/entry/shell-ctf-2022-Tweeeet)
 
-### 10) SHA 256
+### 10) 난해한 프로그래밍 언어 - Esolang
+crypto 문제에 난해한 프로그래밍 언어로 작성된 코드가 주어지기도 합니다.
+- Malbolge     
+이 분야의 정점, 최고 그 무엇도 이길 수 없음 레알 개극혐
+    - [[shell ctf 2022] MALBORNE](https://skyepodium.tistory.com/entry/shell-ctf-2022-MALBORNE)
+
+### 11) SHA 256
 해싱 알고리즘으로 복호화는 불가능합니다. 레인보우 테이블에서 검색해야합니다.
 - [[TFC CTF 2022] ARE YOU THE ADMIN?](https://skyepodium.tistory.com/entry/TFC-CTF-2022-ARE-YOU-THE-ADMIN-1)
 
-### 11) ROT13
+### 12) ROT13
 카이사르 암호
 - [[SuNiNaTaS] challenge 19](https://skyepodium.tistory.com/entry/SuNiNaTaS-challenge-19)
 
@@ -412,14 +418,17 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
 - 이진수 
     - [[DigitalForensic] with CTF - 브리타니아의 원더랜드…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EB%B8%8C%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%EC%9D%98-%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C%E2%80%A6) - pillow, 2진법 정석 문제
 
-    - [[DigitalForensic] with CTF - google](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-google) - RGBA 문제
-
     - [[DigitalForensic] with CTF - Emma Watson](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-Emma-Watson) - stegsolve + pillow
 
     - [[DigitalForensic] with CTF - flagception](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-flagception) - stegsolve + pillow
 
+    - [[H4CKING GAME] - CODE
+](https://skyepodium.tistory.com/entry/H4CKING-GAME-CODE)
+
 - RGB
     - [[DigitalForensic] with CTF - 와우! 저는 이 이미지에…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%99%80%EC%9A%B0-%EC%A0%80%EB%8A%94-%EC%9D%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%E2%80%A6) - rgb값을 아스키코드로 변환
+
+    - [[DigitalForensic] with CTF - google](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-google) - RGBA 문제
 
     - [[DigitalForensic] with CTF - mystery1 - mystery2](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-mystery1-mystery2) - 2개의 png 파일 비교
 
