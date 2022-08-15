@@ -97,9 +97,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 ### 8) 특이한 알고리즘
 쉬운대회에서는 **crypto** 영역에 정말 특이한 알고리즘을 가져옵니다.
 
-사실 이런 문제들은 점수는 낮은데 시간은 많이 소모되어서 나중에 하는것이 건강에 이롭습니다.
-
-개인적으로 정말 극혐합니다.
+사실 이런 문제들은 점수는 낮은데 시간은 많이 소모되어서 나중에 하는것이 좋습니다.
 
 - [Multi-tap Phone](https://en.wikipedia.org/wiki/Multi-tap)  
 구형 휴대폰 숫자 패드 기반의 암호문을 의미합니다.
@@ -133,6 +131,11 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - wakanda cipher    
 ![cover](./images/wakanda.png)
     - [[shell ctf 2022] World's Greatest Detective](https://skyepodium.tistory.com/entry/shell-ctf-2022-Worlds-Greatest-Detective)
+
+- Braille cipher
+    - [0xL4ugh-CTF - Cylops](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup#4-cylops)
+
+    - [[shell ctf 2022] Feel me](https://skyepodium.tistory.com/entry/shell-ctf-2022-Feel-me)
 
 ### 10) 난해한 프로그래밍 언어 - Esolang
 crypto 문제에 난해한 프로그래밍 언어로 작성된 코드가 주어지기도 합니다.
