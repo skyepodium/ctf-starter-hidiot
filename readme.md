@@ -121,6 +121,10 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 전깃줄 위의 새의 모습으로 암호문을 만드는 알고리즙 입니다.
 ![cover](./images/birdsonwire.jpeg)
     - [[shell ctf 2022] Tweeeet](https://skyepodium.tistory.com/entry/shell-ctf-2022-Tweeeet)
+ 
+- play fair cipher     
+![cover](./images/playfair.png)
+    - [[ctflearn] Suspecious message](https://skyepodium.tistory.com/entry/ctflearn-Suspecious-message)
 
 ### 10) 난해한 프로그래밍 언어 - Esolang
 crypto 문제에 난해한 프로그래밍 언어로 작성된 코드가 주어지기도 합니다.
