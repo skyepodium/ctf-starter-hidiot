@@ -539,12 +539,17 @@ NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니�
 
 리버싱을 하려면 디 컴파일러가 필요합니다. 유명한 도구는 IDA인데 가격이 비싸서, 무료인 기드라를 사용합니다. 
 
+- 문자열 검색
+    - [[shell ctf 2022] Pulling the strings](https://skyepodium.tistory.com/entry/shell-ctf-2022-Pulling-the-strings)
+
+- 코드 분석
+    - [[shell ctf 2022] Keygen](https://skyepodium.tistory.com/entry/shell-ctf-2022-Keygen)
 ### 2) [jadx-gui](https://velog.io/@skyepodium/%EB%A7%A5-jadx-gui-%EC%84%A4%EC%B9%98)
 jar를 디컴파일 하는 경우 jadx-gui를 사용합니다.
 
 ### 3) [인텔리제이](https://www.jetbrains.com/ko-kr/idea/download/#section=mac)
 .class를 디컴파일 하는데 사용할 수 있습니다.
-- [[b01lers CTF] I Love Java](https://skyepodium.tistory.com/entry/b01lers-CTF-I-Love-Java)
+- [[b01lers CTF] I Love Java](https://skyepodium.tistory.com/entry/b01lers-CTF-I-Love-Java) - 자바 .class 파일 디컴파일
 
 
 # 8. pwnable 🔥🔥🔥
