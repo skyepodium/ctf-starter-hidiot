@@ -346,6 +346,8 @@ jar xvf a.zip
 ```
 
 # 6. stegnography
+[스테가노그라피 툴킷 모음](https://github.com/DominicBreuker/stego-toolkit/blob/master/README.md#tools)
+
 ### 1) [foremost](http://foremost.sourceforge.net/) 🔥
 포렌식용 툴인데, 파일 카빙할 때 사용 가능합니다. 개인적으로 제일 좋아합니다.
 
@@ -498,6 +500,8 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
     - [[DigitalForensic] with CTF - mystery1 - mystery2](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-mystery1-mystery2) - 2개의 png 파일 비교
 
     - [[ctflearn] Image Magic](https://skyepodium.tistory.com/entry/ctflearn-Image-Magic)
+
+    - [[shell ctf 2022] Heaven](https://skyepodium.tistory.com/entry/shell-ctf-2022-Heaven) - stegsolve 사용
 
 - 메시지를 그림으로 그리기
     - [[corCTF 2022] whack-a-frog](https://skyepodium.tistory.com/entry/corCTF-2022-whack-a-frog) - 좌표값을 그림으로 그리기
