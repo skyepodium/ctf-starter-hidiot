@@ -496,6 +496,10 @@ gif 분해 문제
 여러번 압축한 파일을 다룹니다.
 - [[ctflearn] like1000](https://skyepodium.tistory.com/entry/ctflearn-like1000)
 
+### 21. png 복구 🔥🔥🔥
+png는 파일 시그니처가 명확하고, 다양하기 때문에 복구하는 문제가 자주 나옵니다.
+- [[DigitalForensic] with CTF - 저는 이 파일이 내 친구와…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%A0%80%EB%8A%94-%EC%9D%B4-%ED%8C%8C%EC%9D%BC%EC%9D%B4-%EB%82%B4-%EC%B9%9C%EA%B5%AC%EC%99%80%E2%80%A6)
+
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
 NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니다.
