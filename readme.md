@@ -440,9 +440,11 @@ QR 코드 복원 문제가 종종 나옵니다.
 - [[DigitalForensic] with CTF - 제 친구의 개가 바다에서…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%A0%9C-%EC%B9%9C%EA%B5%AC%EC%9D%98-%EA%B0%9C%EA%B0%80-%EB%B0%94%EB%8B%A4%EC%97%90%EC%84%9C%E2%80%A6)
 
 
-### 16. pillow
+### 16. pillow 🔥🔥🔥
 pillow는 파이선 기반 이미지 처리 도구입니다.
 사진에 어떤 메시지를 심는 경우 뽑아낼 수 있습니다.
+
+이미지 처리 도구 사용할 수 있어야 조금 어려운 문제 다룰 수 있습니다.
 
 - 이진수 
     - [[DigitalForensic] with CTF - 브리타니아의 원더랜드…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EB%B8%8C%EB%A6%AC%ED%83%80%EB%8B%88%EC%95%84%EC%9D%98-%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C%E2%80%A6) - pillow, 2진법 정석 문제
@@ -460,6 +462,8 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
     - [[DigitalForensic] with CTF - google](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-google) - RGBA 문제
 
     - [[DigitalForensic] with CTF - mystery1 - mystery2](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-mystery1-mystery2) - 2개의 png 파일 비교
+
+    - [[ctflearn] Image Magic](https://skyepodium.tistory.com/entry/ctflearn-Image-Magic)
 
 - 메시지를 그림으로 그리기
     - [[corCTF 2022] whack-a-frog](https://skyepodium.tistory.com/entry/corCTF-2022-whack-a-frog) - 좌표값을 그림으로 그리기
