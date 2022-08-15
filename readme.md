@@ -15,6 +15,7 @@ wargame은 자신의 페이스로 진행할 수 있는 환경입니다.
     - [H4CKING GAME](https://h4ckingga.me/)
     - [SuNiNaTaS](http://suninatas.com/)
     - [xcz.kr](http://xcz.kr/START/index.php)
+    - [webhacking.kr](https://webhacking.kr/) - 많이 어려움
 
 - 해외
     - [picoCTF](https://picoctf.org/)
@@ -246,6 +247,13 @@ phar
 
 ### 4) 시스템 콜
 - [shell_exec](https://skyepodium.tistory.com/entry/Patriot-CTF-Spongebob)
+
+### 5) LFI (Local File Injeciton) 🔥 
+LFI란 서버 local에 있는 파일로 공격을 수행하는 기법입니다.
+
+- [[H4CKING GAME] - PHP LFI](https://skyepodium.tistory.com/entry/H4CKING-GAME-PHP-LFI) - base64인코딩으로 파라미터 필터 우회
+
+- [[webhacking.kr] challenge 25](https://skyepodium.tistory.com/entry/webhackingkr-challenge-25) - base64 인코딩으로 파일 내용 필터 우회
 
 # 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
