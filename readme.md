@@ -404,7 +404,8 @@ https://incoherency.co.uk/image-steganography/#unhide
 ### 12) 파일 시그니처
 png, jpeg 파일 마다 고유한 시그니처를 가지고 있습니다.
 
-보통 파일을 복구하는 문제가 나옵니다.
+보통 파일을 복구하는 문제가 나옵니다.    
+[*참고 - 파일 시그니처 목록](http://forensic-proof.com/archives/300)
 
 - jpg
     - [[DigitalForensic] with CTF - 거래 조건 알고 있잖아요?](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EA%B1%B0%EB%9E%98-%EC%A1%B0%EA%B1%B4-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%9E%96%EC%95%84%EC%9A%94)
@@ -413,6 +414,10 @@ png, jpeg 파일 마다 고유한 시그니처를 가지고 있습니다.
 
 - gz
     - [[DigitalForensic] with CTF - 우리는 이 파일에 플래그를...](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%9D%B4-%ED%8C%8C%EC%9D%BC%EC%97%90-%ED%94%8C%EB%9E%98%EA%B7%B8%EB%A5%BC) 
+
+
+- rar
+    - [[ctflearn] Minions](https://skyepodium.tistory.com/entry/ctflearn-Minions) - foremost, binwalk 모두 안되면, hex에디터열고 직접 파일 카빙 합니다.
 
 ### 13) QR 코드
 QR 코드 복원 문제가 종종 나옵니다.
