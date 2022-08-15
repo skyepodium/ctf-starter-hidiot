@@ -467,6 +467,8 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
 
     - [[H4CKING GAME] - CODE](https://skyepodium.tistory.com/entry/H4CKING-GAME-CODE)
 
+    - [[DigitalForensic] with CTF - Find Key(Image)]([DigitalForensic] with CTF - Find Key(Image))
+
 - RGB
     - [[DigitalForensic] with CTF - 와우! 저는 이 이미지에…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%99%80%EC%9A%B0-%EC%A0%80%EB%8A%94-%EC%9D%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%E2%80%A6) - rgb값을 아스키코드로 변환
 
