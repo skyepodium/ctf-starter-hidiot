@@ -225,6 +225,16 @@ c ^ b == a
 
 - [[shell ctf 2022] Colour Cookie](https://skyepodium.tistory.com/entry/shell-ctf-2022-Colour-Cookie)
 
+### 17) LFI 🔥 
+LFI란 서버 local에 있는 파일로 공격을 수행하는 기법입니다.
+- PHP    
+    - [[H4CKING GAME] - PHP LFI](https://skyepodium.tistory.com/entry/H4CKING-GAME-PHP-LFI) - base64인코딩으로 파라미터 필터 우회
+
+    - [[webhacking.kr] challenge 25](https://skyepodium.tistory.com/entry/webhackingkr-challenge-25) - base64 인코딩으로 파일 내용 필터 우회
+
+- 그외
+    - [[nullcon Goa HackIM CTF 2022] - i love browsers](https://skyepodium.tistory.com/entry/nullcon-Goa-HackIM-CTF-2022-i-love-browsers) - User-Agent기반 LFI 문제, LFI라고 예상하기 어려움
+
 # 3. php
 php는 웹에 분류되지만, 자주 출제됩니다.
 
@@ -247,13 +257,6 @@ phar
 
 ### 4) 시스템 콜
 - [shell_exec](https://skyepodium.tistory.com/entry/Patriot-CTF-Spongebob)
-
-### 5) LFI (Local File Injeciton) 🔥 
-LFI란 서버 local에 있는 파일로 공격을 수행하는 기법입니다.
-
-- [[H4CKING GAME] - PHP LFI](https://skyepodium.tistory.com/entry/H4CKING-GAME-PHP-LFI) - base64인코딩으로 파라미터 필터 우회
-
-- [[webhacking.kr] challenge 25](https://skyepodium.tistory.com/entry/webhackingkr-challenge-25) - base64 인코딩으로 파일 내용 필터 우회
 
 # 4. SQL Injection
 ### 1) [cheet sheet](https://github.com/skyepodium/ctf-starter-hidiot/blob/main/sqli/sheet.md)
