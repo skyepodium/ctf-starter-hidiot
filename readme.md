@@ -611,6 +611,7 @@ file 1.png
 
 - [[DigitalForensic] with CTF - e_e](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-ee)
 
+- [[ctflearn] 07601](https://skyepodium.tistory.com/entry/ctflearn-07601)
 
 ### 3) base64
 ```
