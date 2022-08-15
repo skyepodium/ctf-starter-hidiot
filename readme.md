@@ -80,6 +80,8 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 - [[EZCTF] Qweauty and the Beast](https://skyepodium.tistory.com/entry/EZCTF-Qweauty-and-the-Beast) - 8진법 + 키보드
 - [[SuNiNaTaS] challenge 18](https://skyepodium.tistory.com/entry/SuNiNaTaS-challenge-18)
 
+- [[ctflearn] Blank Page](https://skyepodium.tistory.com/entry/ctflearn-Blank-Page)
+
 ### 7) [모스부호](https://onlineasciitools.com/convert-morse-to-ascii)
 - [[EZCTF] More sense](https://skyepodium.tistory.com/entry/EZCTF-More-sense)
 - [[cflearn] Morse Code](https://skyepodium.tistory.com/entry/cflearn-Morse-Code?category=1029036)
