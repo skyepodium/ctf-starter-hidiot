@@ -464,7 +464,13 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
 - 메시지를 그림으로 그리기
     - [[corCTF 2022] whack-a-frog](https://skyepodium.tistory.com/entry/corCTF-2022-whack-a-frog) - 좌표값을 그림으로 그리기
 
-### 17. gif
+### 17. image combiner 🔥🔥🔥🔥🔥
+2개의 이미지의 RGB값을 XOR, SUB등 하는 경우가 속합니다.
+
+- [[ctflearn] Exclusive Santa](https://skyepodium.tistory.com/entry/ctflearn-Exclusive-Santa) - XOR 정석
+
+
+### 18. gif
 gif 분해 문제
 - [[DigitalForensic] with CTF - 저는 이미지에서 어떤 것을…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%A0%80%EB%8A%94-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%A4-%EA%B2%83%EC%9D%84%E2%80%A6)
 
