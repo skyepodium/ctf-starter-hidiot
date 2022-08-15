@@ -564,6 +564,11 @@ robot 어쩌구 저쩌구 나오면 힌트가 있을 확률이 높고, 그것이
 ### 3) [정규 표현식](https://velog.io/@skyepodium/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - [[NahamCon_CTF_2022] personnel](https://skyepodium.tistory.com/entry/NahamConCTF2022-personnel)
 
+### 4)[인터넷 아카이브](https://archive.org/)
+쉬운 대회에서 종종 나옵니다. 웹사이트가 과거 특정시기에 어떻게 보이는지 아카이빙을 검색하는 문제입니다.
+
+- [[ctflearn] Time Traveller](https://skyepodium.tistory.com/entry/ctflearn-Time-Traveller)
+
 # 11. 팁
 ### 1) | 파이프라인
 다음과 같이 쓰는 경우가 많습니다. `|` 파이프라인은 앞의 결과를 뒤 함수의 인풋으로 넣습니다.
