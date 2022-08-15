@@ -288,8 +288,14 @@ INSERT 구문의 value에서는 불가능합니다.
 ### 5) union sql injection 🔥
 union을 사용하는 방법으로 유용합니다. DB에 따라 필요한 정보가 조금 다릅니다.
 
-- [[BSidesSF CTF] Sequels: A New Bug](https://skyepodium.tistory.com/entry/BSidesSF-CTF-Sequels-A-New-Bug) - mysql
-- [[Square CTF 2017] little-doggy-tables](https://skyepodium.tistory.com/entry/Square-CTF-2017-little-doggy-tables) - sqlite
+- mysql
+    - [[BSidesSF CTF] Sequels: A New Bug](https://skyepodium.tistory.com/entry/BSidesSF-CTF-Sequels-A-New-Bug)
+
+- sqlite
+    - [[Square CTF 2017] little-doggy-tables](https://skyepodium.tistory.com/entry/Square-CTF-2017-little-doggy-tables)
+    - [[shell ctf 2022] Extractor](https://skyepodium.tistory.com/entry/shell-ctf-2022-Extractor)
+
+
 
 # 5. forensics
 ### 1) Hex editor 🔥🔥🔥
