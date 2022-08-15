@@ -466,9 +466,12 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
 
 ### 17. image combiner 🔥🔥🔥🔥🔥
 2개의 이미지의 RGB값을 XOR, SUB등 하는 경우가 속합니다.
+- XOR 연산
+    - [[ctflearn] Exclusive Santa](https://skyepodium.tistory.com/entry/ctflearn-Exclusive-Santa) - 정석문제
 
-- [[ctflearn] Exclusive Santa](https://skyepodium.tistory.com/entry/ctflearn-Exclusive-Santa) - XOR 정석
-
+- subtraciton 연산    
+음수가 되면 255를 더해줍니다.
+    - [[TFC CTF 2022] cat](https://skyepodium.tistory.com/entry/TFC-CTF-2022-cat) - 비슷한 이미지를 구글링해서 찾고, 2개의 이미지를 연산하는 문제
 
 ### 18. gif
 gif 분해 문제
