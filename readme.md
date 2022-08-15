@@ -483,6 +483,11 @@ pillow는 파이선 기반 이미지 처리 도구입니다.
 gif 분해 문제
 - [[DigitalForensic] with CTF - 저는 이미지에서 어떤 것을…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%A0%80%EB%8A%94-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90%EC%84%9C-%EC%96%B4%EB%96%A4-%EA%B2%83%EC%9D%84%E2%80%A6)
 
+### 19. git
+깃 커밋 이력을 통해 flag를 확인하는 문제입니다.
+- [[ctflearn] Git Is Good](https://skyepodium.tistory.com/entry/ctflearn-Git-Is-Good)
+
+
 
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
