@@ -133,6 +133,17 @@ crypto 문제에 난해한 프로그래밍 언어로 작성된 코드가 주어�
 카이사르 암호
 - [[SuNiNaTaS] challenge 19](https://skyepodium.tistory.com/entry/SuNiNaTaS-challenge-19)
 
+### 13) XOR
+XOR은 다음과 같은 특징을 가지기 때문에 대칭 암호화 기법에 사용됩니다.
+```
+a ^ b == c
+c ^ a == b
+c ^ b == a
+```
+
+- [[DigitalForensic] with CTF - ROX](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-ROX)
+
+
 # 2. web
 ### 1) [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) 🔥🔥🔥
 웹이 어떤 프레임워크로 구성되어있는지 확인해주는 크롬 확장 프로그램, 개인적으로 정말 잘쓰고 있어서 추천!!!   
