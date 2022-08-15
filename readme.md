@@ -350,6 +350,7 @@ binwalk --extract --dd=".*" a.png
 
 - [[BCACTF 3.0] My New Friend](https://skyepodium.tistory.com/entry/BCACTF-30-My-New-Friend)
 - [[Square CTF 2017] Stegasaurus - Treasure hunt](https://skyepodium.tistory.com/entry/Square-CTF-2017-Stegasaurus-Treasure-hunt) - 파이썬 코드
+- [[ctflearn] St3g0](https://skyepodium.tistory.com/entry/ctflearn-St3g0)
 
 ### 4) stegsolve
 색, 명암을 변경하여 숨겨진 문자열을 찾습니다.
