@@ -327,6 +327,8 @@ foremost -t all a.png
 
 - [[ctflearn] Binwalk](https://skyepodium.tistory.com/entry/ctflearn-Binwalk?category=1029036)
 
+- [[ctflearn] Tux!](https://skyepodium.tistory.com/entry/ctflearn-Tux) - exiftool, foremost 모두 사용
+
 ### 2) [binwalk](https://github.com/ReFirmLabs/binwalk)
 이미지에 숨겨진 파일을 추출합니다.   
 ```
