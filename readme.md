@@ -158,6 +158,7 @@ c ^ b == a
 
 - [[DigitalForensic] with CTF - ROX](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-ROX)
 
+- [[shell ctf 2022] OX9OR2](https://skyepodium.tistory.com/entry/shell-ctf-2022-OX9OR2) - XOR 유추 문제
 
 # 2. web
 ### 1) [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) 🔥🔥🔥
