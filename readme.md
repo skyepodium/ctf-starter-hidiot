@@ -492,7 +492,9 @@ gif 분해 문제
 깃 커밋 이력을 통해 flag를 확인하는 문제입니다.
 - [[ctflearn] Git Is Good](https://skyepodium.tistory.com/entry/ctflearn-Git-Is-Good)
 
-
+### 20. zip
+여러번 압축한 파일을 다룹니다.
+- [[ctflearn] like1000](https://skyepodium.tistory.com/entry/ctflearn-like1000)
 
 # 7 . reversing
 ### 1) [기드라](https://ghidra-sre.org/) 🔥🔥🔥
