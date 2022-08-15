@@ -122,13 +122,17 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
     - [[DigitalForensic] with CTF - 원래 의미가 없는 것들도…](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EC%9B%90%EB%9E%98-%EC%9D%98%EB%AF%B8%EA%B0%80-%EC%97%86%EB%8A%94-%EA%B2%83%EB%93%A4%EB%8F%84%E2%80%A6)
 
 - birds on wire cipher
-전깃줄 위의 새의 모습으로 암호문을 만드는 알고리즙 입니다.
+전깃줄 위의 새의 모습으로 암호문을 만드는 알고리즘 입니다.
 ![cover](./images/birdsonwire.jpeg)
     - [[shell ctf 2022] Tweeeet](https://skyepodium.tistory.com/entry/shell-ctf-2022-Tweeeet)
  
 - play fair cipher     
 ![cover](./images/playfair.png)
     - [[ctflearn] Suspecious message](https://skyepodium.tistory.com/entry/ctflearn-Suspecious-message)
+
+- wakanda cipher    
+![cover](./images/wakanda.png)
+    - [[shell ctf 2022] World's Greatest Detective](https://skyepodium.tistory.com/entry/shell-ctf-2022-Worlds-Greatest-Detective)
 
 ### 10) 난해한 프로그래밍 언어 - Esolang
 crypto 문제에 난해한 프로그래밍 언어로 작성된 코드가 주어지기도 합니다.
