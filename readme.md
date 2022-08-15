@@ -645,6 +645,8 @@ grep -rn "flag"
 ```
 - [[HSCTF 9] the-great-directory-egg-hunt](https://skyepodium.tistory.com/entry/HSCTF-9-the-great-directory-egg-hunt)
 
+- [[pico CTF] Big Zip](https://skyepodium.tistory.com/entry/pico-CTF-Big-Zip)
+
 ### 2) file
 파일의 유형을 알려줍니다.
 
