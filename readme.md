@@ -17,10 +17,13 @@ wargame은 자신의 페이스로 진행할 수 있는 환경입니다.
     - [xcz.kr](http://xcz.kr/START/index.php)
     - [webhacking.kr](https://webhacking.kr/) - 많이 어려움
 
-- 해외
+- 미국
     - [picoCTF](https://picoctf.org/)
     - [ctflearn](https://ctflearn.com/)
 
+- 일본
+    - [CpawCTF](https://ctf.cpaw.site/)
+    - [ksnctf](https://ksnctf.sweetduet.info/)
 
 ### 4) 대회
 매주 대회가 개최되며 일정은 [CTF TIME](https://ctftime.org/)에서 확인할 수 있습니다.
@@ -544,6 +547,8 @@ NSA에서만든 C언어 디컴파일러, 영화에 나오는 그 곳 맞습니�
 
 - 코드 분석
     - [[shell ctf 2022] Keygen](https://skyepodium.tistory.com/entry/shell-ctf-2022-Keygen)
+
+    - [[shell ctf 2022] warmup](https://skyepodium.tistory.com/entry/shell-ctf-2022-warmup)
 ### 2) [jadx-gui](https://velog.io/@skyepodium/%EB%A7%A5-jadx-gui-%EC%84%A4%EC%B9%98)
 jar를 디컴파일 하는 경우 jadx-gui를 사용합니다.
 
