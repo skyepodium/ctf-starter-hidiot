@@ -3,14 +3,11 @@
 ### 1) 소개
 **CTF(Capture the Flag)** 는 간단히 말해서 **해킹 대회**
 
-### 2) 학습 사이트
-[드림핵](https://dreamhack.io/) - 정말 좋아요
-[tryhackme](https://tryhackme.com/) - 자료 많고, 좋음
-
-### 3) wargame
+### 2) wargame
 wargame은 자신의 페이스로 진행할 수 있는 환경입니다.      
 
 - 국내
+    - [드림핵](https://dreamhack.io/) - 정말 좋아요 🔥🔥🔥
     - [[DigitalForensic]  with  CTF](http://ctf-d.com/) - 포렌식 문제 위주
     - [H4CKING GAME](https://h4ckingga.me/)
     - [SuNiNaTaS](http://suninatas.com/)
@@ -20,19 +17,21 @@ wargame은 자신의 페이스로 진행할 수 있는 환경입니다.
 - 미국
     - [picoCTF](https://picoctf.org/)
     - [ctflearn](https://ctflearn.com/)
+    - [tryhackme](https://tryhackme.com/)
+    - [HACT THE BOX](https://www.hackthebox.com/)
 
 - 일본
     - [CpawCTF](https://ctf.cpaw.site/)
     - [ksnctf](https://ksnctf.sweetduet.info/)
 
-### 4) 대회
+### 3) 대회
 매주 대회가 개최되며 일정은 [CTF TIME](https://ctftime.org/)에서 확인할 수 있습니다.
 
 대회 난이도가 높으면 성취감을 얻기 힘들기 때문에 낮은 레이팅 부터 시작하거나 워게임 부터 진행합니다.
 
 ![cover](./images/ctftime.png)
 
-### 5) writeup
+### 4) writeup
 문제를 어떻게 풀었는 기술하는 작업
 , 예시: [0xL4ugh-CTF-writeup](https://velog.io/@skyepodium/0xL4ugh-CTF-writeup)
 
@@ -40,7 +39,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 
 구글링, 유튜브 등등 으로 검색가능합니다.
 
-### 6) 지난 대회
+### 5) 지난 대회
 대부분의 대회 종료 후 서버를 닫고, 문제를 공개하지 않습니다. 일부 대회의 경우 문제와 함께 답을 공개합니다.
 
 - [squareCTF](https://squarectf.com/)   
