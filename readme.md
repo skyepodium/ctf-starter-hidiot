@@ -410,12 +410,12 @@ binwalk --extract --dd=".*" a.png
 
 - [[EZCTF] Nobody's perfect](https://skyepodium.tistory.com/entry/EZCTF-Nobodys-perfect)
 
-### 7) [스테그하이드](https://futureboy.us/stegano/decinput.html) 🔥
+### 7) [steghide 스테그하이드](https://futureboy.us/stegano/decinput.html) 🔥
 비빌먼호 넣고 메시지를 숨기는 경우가 있습니다.
 
 - [[EZCTF] Bernie](https://skyepodium.tistory.com/entry/EZCTF-Bernie)
 - [[shell ctf] Hidden File](https://skyepodium.tistory.com/entry/shell-ctf-Hidden-File)
-
+- [[DigitalForensic] with CTF - 답을 찾고 제출해라!](https://skyepodium.tistory.com/entry/DigitalForensic-with-CTF-%EB%8B%B5%EC%9D%84-%EC%B0%BE%EA%B3%A0-%EC%A0%9C%EC%B6%9C%ED%95%B4%EB%9D%BC)
 ### 8) strings
 바이너리 파일에서 문자열을 추출하는 함수
 - [[ctflearn] Forensics 101](https://skyepodium.tistory.com/entry/ctflearn-Forensics-101?category=1029036)
