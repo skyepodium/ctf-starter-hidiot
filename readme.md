@@ -14,11 +14,14 @@ wargame은 자신의 페이스로 진행할 수 있는 환경입니다.
     - [xcz.kr](http://xcz.kr/START/index.php)
     - [webhacking.kr](https://webhacking.kr/) - 많이 어려움
 
-- 미국
+- 해외
     - [picoCTF](https://picoctf.org/)
     - [ctflearn](https://ctflearn.com/)
     - [tryhackme](https://tryhackme.com/)
     - [HACT THE BOX](https://www.hackthebox.com/)
+    - [cryptopals](https://cryptopals.com/) - 크립토
+    - [traboda](https://app.traboda.com/challenges)
+    - [ringzer0ctf](https://ringzer0ctf.com/)
 
 - 일본
     - [CpawCTF](https://ctf.cpaw.site/)
