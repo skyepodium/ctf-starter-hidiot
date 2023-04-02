@@ -53,6 +53,7 @@ ctf time의 경우 대회 종료 후 [write up](https://ctftime.org/event/1660/t
 다양한 암호 알고리즘의 디코딩, 인코딩을 온라인으로 지원합니다.
 
 사용법이 간편하고, 문자열 입력값에 따라 가장 유사한 디코딩 알고리즘도 추천해줍니다.
+(참고로, 영국 정부통신본부에서 만들었습니다.)
 
 ### 2) [암호 알고리즘 판별](https://www.dcode.fr/cipher-identifier) 
 어떤 알고리즘인지 감이 안잡히는 경우 대략적으로 파악할 수 있습니다.   
@@ -150,15 +151,23 @@ crypto 문제에 난해한 프로그래밍 언어로 작성된 코드가 주어�
 이 분야의 정점, 최고 그 무엇도 이길 수 없음 레알 개극혐
     - [[shell ctf 2022] MALBORNE](https://skyepodium.tistory.com/entry/shell-ctf-2022-MALBORNE)
 
-### 11) SHA 256
+### 11) 난해한 프로그래밍 스타일 - esoteric programming style
+난해한 프로그래밍 언어가 아니고, 난해한 스타일
+- JSFuck
+     - JSFuck은 `[ ] ( ) ! +` 6개의 문자로만 사용하는 JS 코딩 스타일입니다.
+     - [[GREP CTF] esoF*ck](https://skyepodium.tistory.com/entry/GREP-CTF-esoFck)
+
+- [[Root Me] Native code](https://skyepodium.tistory.com/entry/Root-Me-Native-code)
+
+### 12) SHA 256
 해싱 알고리즘으로 복호화는 불가능합니다. 레인보우 테이블에서 검색해야합니다.
 - [[TFC CTF 2022] ARE YOU THE ADMIN?](https://skyepodium.tistory.com/entry/TFC-CTF-2022-ARE-YOU-THE-ADMIN-1)
 
-### 12) ROT13
+### 13) ROT13
 카이사르 암호
 - [[SuNiNaTaS] challenge 19](https://skyepodium.tistory.com/entry/SuNiNaTaS-challenge-19)
 
-### 13) XOR
+### 14) XOR
 XOR은 다음과 같은 특징을 가지기 때문에 대칭 암호화 기법에 사용됩니다.
 ```
 a ^ b == c
